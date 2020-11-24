@@ -1,0 +1,4070 @@
+[
+  {
+    "make"  : "Acura",
+    "model" : "ILX",
+    "price" : 25900,
+    "trim"  : "Base 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/acura/ilx/2-800-oemexteriorfront1326-92935.JPG"
+    }
+  },
+  {
+    "make"  : "Acura",
+    "model" : "MDX",
+    "price" : 46500,
+    "trim"  : "Base 4dr SH-AWD",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/acura/mdx/2-800-oemexteriorfront1326-91760.JPG"
+    }
+  },
+  {
+    "make"  : "Acura",
+    "model" : "MDX Sport Hybrid",
+    "price" : 53000,
+    "trim"  : "Technology Package 4dr SH-AWD",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/acura/mdx-sport-hybrid/2-800-oemexteriorfront1300-91769.JPG"
+    }
+  },
+  {
+    "make"  : "Acura",
+    "model" : "NSX",
+    "price" : 157500,
+    "trim"  : "Base 2dr All-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/acura/nsx/2-800-oemexterior3/4frontrightfacing1308-93221.JPG"
+    }
+  },
+  {
+    "make"  : "Acura",
+    "model" : "RDX",
+    "price" : 39800,
+    "trim"  : "Base 4dr SH-AWD",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/acura/rdx/2-800-oemexteriorprofilerightfacing1310-90681.jpg"
+    }
+  },
+  {
+    "make"  : "Acura",
+    "model" : "RLX",
+    "price" : 54900,
+    "trim"  : "Technology Package 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/acura/rlx/2-800-oemexteriorfront1326-92027.JPG"
+    }
+  },
+  {
+    "make"  : "Acura",
+    "model" : "RLX Sport Hybrid",
+    "price" : 61900,
+    "trim"  : "Advance Package 4dr SH-AWD Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/acura/rlx-sport-hybrid/2-800-oemexteriorfront1326-92028.JPG"
+    }
+  },
+  {
+    "make"  : "Acura",
+    "model" : "TLX",
+    "price" : 33000,
+    "trim"  : "2.4L 4dr Front-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/acura/tlx/2-800-oemexteriorfront1326-90567.JPG"
+    }
+  },
+  {
+    "make"  : "Alfa Romeo",
+    "model" : "4C Spider",
+    "price" : 67150,
+    "trim"  : "Base 2dr Convertible",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/alfa-romeo/4c-spider/2-800-oemexteriorfront1300-92698.JPG"
+    }
+  },
+  {
+    "make"  : "Alfa Romeo",
+    "model" : "Giulia",
+    "price" : 39345,
+    "trim"  : "Base 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/alfa-romeo/giulia/2-800-oemexteriorfront1300-93298.JPG"
+    }
+  },
+  {
+    "make"  : "Alfa Romeo",
+    "model" : "Stelvio",
+    "price" : 43345,
+    "trim"  : "Base 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/alfa-romeo/stelvio/2-800-oemexteriorfront1300-93303.JPG"
+    }
+  },
+  {
+    "make"  : "Aston Martin",
+    "model" : "DB11",
+    "price" : 198995,
+    "trim"  : "Base V8 2dr Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/aston-martin/db11/2-800-oemexteriorfront1300-93542.JPG"
+    }
+  },
+  {
+    "make"  : "Aston Martin",
+    "model" : "DBS",
+    "price" : 304995,
+    "trim"  : "Superleggera 2dr Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/aston-martin/dbs/2-800-oemexteriorfront1300-93540.JPG"
+    }
+  },
+  {
+    "make"  : "Aston Martin",
+    "model" : "Vantage",
+    "price" : 152995,
+    "trim"  : "Base 2dr Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/aston-martin/vantage/2-800-oemexteriorfront1300-93307.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "A3",
+    "price" : 33300,
+    "trim"  : "2.0T Premium 4dr Front-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/a3/2-800-oemexterior3/4frontrightfacing1308-92031.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "A4",
+    "price" : 37400,
+    "trim"  : "40 Premium 4dr Front-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/a4/2-800-threequartersview101-93644.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "A4 allroad",
+    "price" : 44600,
+    "trim"  : "2.0T Premium 4dr All-wheel Drive quattro Wagon",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/a4-allroad/2-800-oemexteriorfront1300-93547.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "A5",
+    "price" : 42900,
+    "trim"  : "2.0T Premium 2dr All-wheel Drive quattro Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/a5/2-800-oemexteriorfront1300-93702.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "A6",
+    "price" : 59800,
+    "trim"  : "55 Premium 4dr All-wheel Drive quattro Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/a6/2-800-oemexteriorfront1300-92559.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "A7",
+    "price" : 69000,
+    "trim"  : "55 Premium 4dr All-wheel Drive quattro Sportback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/a7/2-800-oemexteriorfront1300-92034.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "A8",
+    "price" : 85200,
+    "trim"  : "L 55 4dr All-wheel Drive quattro LWB Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/a8/2-800-oemexteriorfront1300-93545.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "A8 e",
+    "price" : 94000,
+    "trim"  : "L 60 4dr All-wheel Drive quattro LWB Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/a8-e/2-800-threequartersview101-93647.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "Q3",
+    "price" : 34700,
+    "trim"  : "45 Premium 4dr All-wheel Drive quattro Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/q3/2-800-oemexteriorfront1300-92038.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "Q5",
+    "price" : 43300,
+    "trim"  : "45 Premium 4dr All-wheel Drive quattro Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/q5/2-800-oemexteriorfront1300-92699.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "Q5 e",
+    "price" : 52900,
+    "trim"  : "55 Premium 4dr All-wheel Drive quattro Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/q5-e/2-800-oemexteriorfront1300-93308.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "Q8",
+    "price" : 68200,
+    "trim"  : "55 Premium 4dr All-wheel Drive quattro Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/q8/2-800-oemexteriorfront1300-92040.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "R8",
+    "price" : 169900,
+    "trim"  : "5.2 V10 2dr All-wheel Drive quattro Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/r8/2-800-oemexteriorfront1300-90871.jpg"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "S3",
+    "price" : 43000,
+    "trim"  : "2.0T S line Premium 4dr All-wheel Drive quattro Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/s3/2-800-oemexteriorfront1300-92036.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "S4",
+    "price" : 49900,
+    "trim"  : "3.0t Premium 4dr All-wheel Drive quattro Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/s4/2-800-oemexteriorfront1300-93646.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "S5",
+    "price" : 51900,
+    "trim"  : "3.0T Premium 2dr All-wheel Drive quattro Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/s5/2-800-oemexteriorfront1300-93699.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "S6",
+    "price" : 73900,
+    "trim"  : "2.9T Premium Plus 4dr All-wheel Drive quattro Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/s6/2-800-oemexteriorfront1300-92595.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "S7",
+    "price" : 83900,
+    "trim"  : "2.9T Premium Plus 4dr All-wheel Drive quattro Sportback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/s7/2-800-oemexteriorfront1300-92035.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "S8",
+    "price" : 129500,
+    "trim"  : "4.0T 4dr All-wheel Drive quattro Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/s8/2-800-oemexteriorfront1300-93698.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "SQ5",
+    "price" : 52900,
+    "trim"  : "3.0T Premium 4dr All-wheel Drive quattro Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/sq5/2-800-oemexterior3/4frontrightfacing1308-92037.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "TT",
+    "price" : 49000,
+    "trim"  : "2.0T 2dr All-wheel Drive quattro Roadster",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/tt/2-800-oemexteriorfront1300-92029.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "TT RS",
+    "price" : 67600,
+    "trim"  : "2.5T 2dr All-wheel Drive quattro Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/tt-rs/2-800-oemexteriorfront1300-93222.JPG"
+    }
+  },
+  {
+    "make"  : "Audi",
+    "model" : "TTS",
+    "price" : 54500,
+    "trim"  : "2.0T 2dr All-wheel Drive quattro Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/audi/tts/2-800-oemexteriorfront1300-92033.JPG"
+    }
+  },
+  {
+    "make"  : "Bentley",
+    "model" : "Bentayga",
+    "price" : 240400,
+    "trim"  : "Speed 4dr All-wheel Drive Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bentley/bentayga/2-800-oemexteriorprofilerightfacing1310-92704.JPG"
+    }
+  },
+  {
+    "make"  : "Bentley",
+    "model" : "Bentayga Hybrid",
+    "price" : 160000,
+    "trim"  : "Base 4dr All-wheel Drive Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bentley/bentayga-hybrid/2-800-oemexteriorfront1300-92706.JPG"
+    }
+  },
+  {
+    "make"  : "Bentley",
+    "model" : "Continental GT",
+    "price" : 240800,
+    "trim"  : "W12 2dr All-wheel Drive Convertible",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bentley/continental-gt/2-800-oemexteriorfront1300-92700.JPG"
+    }
+  },
+  {
+    "make"  : "Bentley",
+    "model" : "Flying Spur",
+    "price" : 214600,
+    "trim"  : "W12 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bentley/flying-spur/2-800-oemexteriorfront1300-93315.JPG"
+    }
+  },
+  {
+    "make"  : "Bentley",
+    "model" : "Mulsanne",
+    "price" : 310800,
+    "trim"  : "Base 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bentley/mulsanne/2-800-oemexteriorfront1300-92702.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "2020 BMW 228",
+    "price" : 37500,
+    "trim"  : "Gran Coupe i xDrive 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/800-no-img-avail.jpg"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "230",
+    "price" : 35300,
+    "trim"  : "i 2dr Rear-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/230/2-800-oemexteriorfront1300-90521.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "330",
+    "price" : 40750,
+    "trim"  : "i 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/330/2-800-oemexteriorfront1300-91297.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "430",
+    "price" : 44950,
+    "trim"  : "i 2dr Rear-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/430/2-800-oemexteriorfront1300-90509.jpg"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "430 Gran Coupe",
+    "price" : 44750,
+    "trim"  : "i 4dr Rear-wheel Drive Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/430-gran-coupe/2-800-oemexteriorfront1300-90517.jpg"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "440",
+    "price" : 51350,
+    "trim"  : "i 2dr Rear-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/440/2-800-oemexteriorfront1300-90513.jpg"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "440 Gran Coupe",
+    "price" : 51150,
+    "trim"  : "i 4dr Rear-wheel Drive Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/440-gran-coupe/2-800-oemexteriorfront1300-90519.jpg"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "530",
+    "price" : 53900,
+    "trim"  : "i 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/530/2-800-oemexteriorfront1300-91291.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "530e",
+    "price" : 56200,
+    "trim"  : "xDrive iPerformance 4dr All-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/530e/2-800-oemexteriorfront1300-91303.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "540",
+    "price" : 59450,
+    "trim"  : "i 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/540/2-800-oemexteriorfront1300-91293.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "740",
+    "price" : 86450,
+    "trim"  : "i 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/740/2-800-oemexteriorfront1300-90502.jpg"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "745e",
+    "price" : 95550,
+    "trim"  : "xDrive iPerformance 4dr All-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/745e/2-800-oemexteriorfront1300-90532.jpg"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "750",
+    "price" : 102650,
+    "trim"  : "i xDrive 4dr All-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/750/2-800-oemexteriorfront1300-90501.jpg"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "840",
+    "price" : 87900,
+    "trim"  : "i 2dr Rear-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/840/2-800-threequartersview101-91287.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "2020 BMW 840",
+    "price" : 84900,
+    "trim"  : "Gran Coupe i 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/800-no-img-avail.jpg"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "ALPINA B7",
+    "price" : 142800,
+    "trim"  : "xDrive 4dr All-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/alpina-b7/2-800-oemexterior3/4frontrightfacing1308-91302.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "i3",
+    "price" : 44450,
+    "trim"  : "120Ah 4dr Rear-wheel Drive Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/i3/2-800-oemexteriorfront1300-93648.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "i8",
+    "price" : 147500,
+    "trim"  : "Base 2dr All-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/i8/2-800-oemexteriorfront1300-93317.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "M2",
+    "price" : 58900,
+    "trim"  : "Competition 2dr Rear-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/m2/2-800-oemexteriorfront1300-90508.jpg"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "M235 Gran Coupe",
+    "price" : 45500,
+    "trim"  : "i xDrive 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/m235-gran-coupe/2-800-oemexteriorfront1300-93653.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "M240",
+    "price" : 45800,
+    "trim"  : "i 2dr Rear-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/m240/2-800-threequartersview101-90525.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "M340",
+    "price" : 54000,
+    "trim"  : "i 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/m340/2-800-oemexterior3/4frontwhitebackground1311-90530.jpg"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "M4",
+    "price" : 69150,
+    "trim"  : "Base 2dr Rear-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/m4/2-800-oemexteriorfront1300-90505.jpg"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "M5",
+    "price" : 102700,
+    "trim"  : "Base 4dr All-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/m5/2-800-oemexteriorfront1300-91295.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "M550",
+    "price" : 76650,
+    "trim"  : "i xDrive 4dr All-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/m550/2-800-oemexteriorfront1300-91305.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "M760",
+    "price" : 157700,
+    "trim"  : "i xDrive 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/m760/2-800-oemexteriorfront1300-90529.jpg"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "M8",
+    "price" : 133000,
+    "trim"  : "Base 2dr All-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/m8/2-800-oemexteriorfront1300-91309.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "M8 Gran Coupe",
+    "price" : 130000,
+    "trim"  : "Base 4dr All-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/m8-gran-coupe/2-800-oemexteriorfront1300-93319.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "M850",
+    "price" : 111900,
+    "trim"  : "i xDrive 2dr All-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/m850/2-800-oemexteriorfront1300-91306.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "M850 Gran Coupe",
+    "price" : 108900,
+    "trim"  : "i xDrive 4dr All-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/m850-gran-coupe/2-800-oemexteriorfront1300-92043.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "X1",
+    "price" : 35200,
+    "trim"  : "sDrive28i 4dr Front-wheel Drive Sports Activity Vehicle",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/x1/2-800-oemexteriorfront1300-92047.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "X2",
+    "price" : 36400,
+    "trim"  : "sDrive28i 4dr Front-wheel Drive Sports Activity Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/x2/2-800-oemexterior3/4frontrightfacing1308-91319.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "X3",
+    "price" : 43950,
+    "trim"  : "xDrive30i 4dr All-wheel Drive Sports Activity Vehicle",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/x3/2-800-oemexteriorfront1300-92532.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "X3 M",
+    "price" : 69900,
+    "trim"  : "Base 4dr All-wheel Drive Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/x3-m/2-800-oemexteriorfront1300-90580.jpg"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "X3 PHEV",
+    "price" : 48550,
+    "trim"  : "xDrive30e 4dr All-wheel Drive Sports Activity Vehicle",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/x3-phev/2-800-oemexteriorfront1300-93654.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "X4",
+    "price" : 51100,
+    "trim"  : "xDrive30i 4dr All-wheel Drive Sports Activity Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/x4/2-800-oemexteriorfront1300-91317.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "X4 M",
+    "price" : 73400,
+    "trim"  : "Base 4dr All-wheel Drive Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/x4-m/2-800-oemexteriorfront1300-90582.jpg"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "X5",
+    "price" : 61200,
+    "trim"  : "xDrive40i 4dr All-wheel Drive Sports Activity Vehicle",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/x5/2-800-oemexteriorfront1300-91313.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "X5 M",
+    "price" : 105100,
+    "trim"  : "Base 4dr All-wheel Drive Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/x5-m/2-800-oemexteriorfront1300-93223.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "X6",
+    "price" : 66600,
+    "trim"  : "xDrive40i 4dr All-wheel Drive Sports Activity Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/x6/2-800-oemexteriorfront1300-92044.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "X6 M",
+    "price" : 108600,
+    "trim"  : "Base 4dr All-wheel Drive Sports Activity Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/x6-m/2-800-oemexteriorfront1300-93225.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "X7",
+    "price" : 73900,
+    "trim"  : "xDrive40i 4dr All-wheel Drive Sports Activity Vehicle",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/x7/2-800-oemexteriorfront1300-91322.JPG"
+    }
+  },
+  {
+    "make"  : "BMW",
+    "model" : "Z4",
+    "price" : 63700,
+    "trim"  : "sDrive M40i 2dr Rear-wheel Drive Roadster",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/bmw/z4/2-800-oemexteriorfront1300-90504.jpg"
+    }
+  },
+  {
+    "make"  : "Buick",
+    "model" : "Enclave",
+    "price" : 40000,
+    "trim"  : "Preferred Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/buick/enclave/2-800-oemexteriorfront1300-91025.jpg"
+    }
+  },
+  {
+    "make"  : "Buick",
+    "model" : "Encore",
+    "price" : 23200,
+    "trim"  : "Base Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/buick/encore/2-800-oemexteriorfront1300-91325.jpg"
+    }
+  },
+  {
+    "make"  : "Buick",
+    "model" : "Encore GX",
+    "price" : 24100,
+    "trim"  : "Preferred Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/buick/encore-gx/2-800-oemexteriorfront1300-93227.JPG"
+    }
+  },
+  {
+    "make"  : "Buick",
+    "model" : "Envision",
+    "price" : 31995,
+    "trim"  : "Base Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/buick/envision/2-800-oemexteriorprofilerightfacing1310-90584.jpg"
+    }
+  },
+  {
+    "make"  : "Buick",
+    "model" : "Regal Sportback",
+    "price" : 25370,
+    "trim"  : "Base 4dr Front-wheel Drive Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/buick/regal-sportback/2-800-oemexteriorfront1300-91801.JPG"
+    }
+  },
+  {
+    "make"  : "Buick",
+    "model" : "Regal TourX",
+    "price" : 29370,
+    "trim"  : "Base 4dr All-wheel Drive Wagon",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/buick/regal-tourx/2-800-oemexteriorfront1300-91807.JPG"
+    }
+  },
+  {
+    "make"  : "Cadillac",
+    "model" : "CT4",
+    "price" : 32995,
+    "trim"  : "Luxury 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/cadillac/ct4/2-800-oemexteriorfront1300-92940.JPG"
+    }
+  },
+  {
+    "make"  : "Cadillac",
+    "model" : "CT5",
+    "price" : 36895,
+    "trim"  : "Luxury 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/cadillac/ct5/2-800-oemexteriorfront1300-91810.JPG"
+    }
+  },
+  {
+    "make"  : "Cadillac",
+    "model" : "CT6",
+    "price" : 58995,
+    "trim"  : "3.6L Luxury 4dr All-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/cadillac/ct6/2-800-oemexteriorfront1300-91032.jpg"
+    }
+  },
+  {
+    "make"  : "Cadillac",
+    "model" : "CT6-V",
+    "price" : 94895,
+    "trim"  : "4.2L Blackwing Twin Turbo 4dr All-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/cadillac/ct6-v/2-800-oemexteriorfront1300-91035.jpg"
+    }
+  },
+  {
+    "make"  : "Cadillac",
+    "model" : "Escalade",
+    "price" : 75195,
+    "trim"  : "Base 4x2",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/cadillac/escalade/2-800-oemexterior3/4frontwhitebackground1311-90875.jpg"
+    }
+  },
+  {
+    "make"  : "Cadillac",
+    "model" : "Escalade ESV",
+    "price" : 78195,
+    "trim"  : "Base 4x2",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/cadillac/escalade-esv/2-800-oemexterior3/4frontwhitebackground1311-90883.jpg"
+    }
+  },
+  {
+    "make"  : "Cadillac",
+    "model" : "XT4",
+    "price" : 35695,
+    "trim"  : "Luxury 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/cadillac/xt4/2-800-oemexteriorfront1300-91036.jpg"
+    }
+  },
+  {
+    "make"  : "Cadillac",
+    "model" : "XT5",
+    "price" : 44095,
+    "trim"  : "Luxury 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/cadillac/xt5/2-800-oemexteriorfront1300-91332.JPG"
+    }
+  },
+  {
+    "make"  : "Cadillac",
+    "model" : "XT6",
+    "price" : 52695,
+    "trim"  : "Premium Luxury 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/cadillac/xt6/2-800-oemexteriorfront1300-90533.jpg"
+    }
+  },
+  {
+    "make"  : "Chevrolet",
+    "model" : "Blazer",
+    "price" : 28800,
+    "trim"  : "L Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chevrolet/blazer/2-800-oemexteriorfront1300-92085.JPG"
+    }
+  },
+  {
+    "make"  : "Chevrolet",
+    "model" : "Bolt EV",
+    "price" : 36620,
+    "trim"  : "LT 4dr Wagon",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chevrolet/bolt-ev/2-800-oemexteriorfront1300-92707.JPG"
+    }
+  },
+  {
+    "make"  : "Chevrolet",
+    "model" : "Camaro",
+    "price" : 25000,
+    "trim"  : "1LS 2dr Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chevrolet/camaro/2-800-oemexteriorfront1300-91816.JPG"
+    }
+  },
+  {
+    "make"  : "Chevrolet",
+    "model" : "Colorado",
+    "price" : 21300,
+    "trim"  : "Base 4x2 Extended Cab 6 ft. box 128.3 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chevrolet/colorado/2-800-oemexteriorfront1300-91080.jpg"
+    }
+  },
+  {
+    "make"  : "Chevrolet",
+    "model" : "Corvette",
+    "price" : 58900,
+    "trim"  : "Stingray 2dr Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chevrolet/corvette/2-800-oemexteriorfront1300-92538.JPG"
+    }
+  },
+  {
+    "make"  : "Chevrolet",
+    "model" : "Equinox",
+    "price" : 23800,
+    "trim"  : "L Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chevrolet/equinox/2-800-threequartersview101-90753.jpg"
+    }
+  },
+  {
+    "make"  : "Chevrolet",
+    "model" : "Express 2500",
+    "price" : 34900,
+    "trim"  : "LS Rear-wheel Drive Passenger Van",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chevrolet/express-2500/2-800-oemexterior3/4frontrightfacing1308-91370.JPG"
+    }
+  },
+  {
+    "make"  : "Chevrolet",
+    "model" : "Express 3500",
+    "price" : 37200,
+    "trim"  : "LS Rear-wheel Drive Passenger Van",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chevrolet/express-3500/2-800-oemexterior3/4frontrightfacing1308-91374.JPG"
+    }
+  },
+  {
+    "make"  : "Chevrolet",
+    "model" : "Impala",
+    "price" : 31620,
+    "trim"  : "LT 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chevrolet/impala/2-800-oemexterior3/4frontwhitebackground1311-91337.JPG"
+    }
+  },
+  {
+    "make"  : "Chevrolet",
+    "model" : "Malibu",
+    "price" : 22095,
+    "trim"  : "L 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chevrolet/malibu/2-800-oemexteriorfront1300-90738.jpg"
+    }
+  },
+  {
+    "make"  : "Chevrolet",
+    "model" : "Malibu Hybrid",
+    "price" : 30220,
+    "trim"  : "Base 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chevrolet/malibu-hybrid/2-800-oemexteriorfront1300-90744.jpg"
+    }
+  },
+  {
+    "make"  : "Chevrolet",
+    "model" : "Silverado 1500",
+    "price" : 28300,
+    "trim"  : "Work Truck 4x2 Regular Cab 8 ft. box 139.6 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chevrolet/silverado-1500/2-800-oemexterior3/4frontwhitebackground1311-90891.jpg"
+    }
+  },
+  {
+    "make"  : "Chevrolet",
+    "model" : "Silverado 2500HD",
+    "price" : 34100,
+    "trim"  : "Work Truck 4x2 Regular Cab 8 ft. box 141.6 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chevrolet/silverado-2500hd/2-800-oemexteriorfront1300-91042.JPG"
+    }
+  },
+  {
+    "make"  : "Chevrolet",
+    "model" : "Silverado 3500HD",
+    "price" : 36500,
+    "trim"  : "Work Truck 4x2 Regular Cab 8 ft. box 141.6 in. WB DRW",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chevrolet/silverado-3500hd/2-800-oemexteriorfront1300-91099.JPG"
+    }
+  },
+  {
+    "make"  : "Chevrolet",
+    "model" : "Sonic",
+    "price" : 16720,
+    "trim"  : "LS 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chevrolet/sonic/2-800-oemexterior3/4frontrightfacing1308-91339.JPG"
+    }
+  },
+  {
+    "make"  : "Chevrolet",
+    "model" : "Spark",
+    "price" : 13220,
+    "trim"  : "LS Manual 4dr Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chevrolet/spark/2-800-oemexteriorfront1300-90745.jpg"
+    }
+  },
+  {
+    "make"  : "Chevrolet",
+    "model" : "Suburban",
+    "price" : 51700,
+    "trim"  : "LS 4x2",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chevrolet/suburban/2-800-oemexteriorfront1300-91356.JPG"
+    }
+  },
+  {
+    "make"  : "Chevrolet",
+    "model" : "Tahoe",
+    "price" : 49000,
+    "trim"  : "LS 4x2",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chevrolet/tahoe/2-800-oemexteriorfront1300-91345.JPG"
+    }
+  },
+  {
+    "make"  : "Chevrolet",
+    "model" : "Traverse",
+    "price" : 29800,
+    "trim"  : "L Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chevrolet/traverse/2-800-oemexteriorfront1300-90770.jpg"
+    }
+  },
+  {
+    "make"  : "Chevrolet",
+    "model" : "Trax",
+    "price" : 21300,
+    "trim"  : "LS Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chevrolet/trax/2-800-oemexterior3/4frontrightfacing1308-91364.JPG"
+    }
+  },
+  {
+    "make"  : "Chrysler",
+    "model" : "300",
+    "price" : 29590,
+    "trim"  : "Touring 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chrysler/300/2-800-oemexteriorprofilerightfacing1310-93323.JPG"
+    }
+  },
+  {
+    "make"  : "Chrysler",
+    "model" : "Pacifica",
+    "price" : 33745,
+    "trim"  : "Touring Front-wheel Drive Passenger Van",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chrysler/pacifica/2-800-oemexteriorfront1300-92095.JPG"
+    }
+  },
+  {
+    "make"  : "Chrysler",
+    "model" : "Pacifica Hybrid",
+    "price" : 39995,
+    "trim"  : "Touring Front-wheel Drive Passenger Van",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chrysler/pacifica-hybrid/2-800-oemexteriorfront1300-92099.JPG"
+    }
+  },
+  {
+    "make"  : "Chrysler",
+    "model" : "Voyager",
+    "price" : 26985,
+    "trim"  : "L Passenger Van",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/chrysler/voyager/2-800-oemexteriorfront1300-91380.JPG"
+    }
+  },
+  {
+    "make"  : "Dodge",
+    "model" : "Challenger",
+    "price" : 27995,
+    "trim"  : "SXT 2dr Rear-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/dodge/challenger/2-800-oemexteriorfront1300-93330.JPG"
+    }
+  },
+  {
+    "make"  : "Dodge",
+    "model" : "Charger",
+    "price" : 29895,
+    "trim"  : "SXT 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/dodge/charger/2-800-oemexteriorfront1300-93337.JPG"
+    }
+  },
+  {
+    "make"  : "Dodge",
+    "model" : "Durango",
+    "price" : 30495,
+    "trim"  : "SXT 4dr 4x2",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/dodge/durango/2-800-oemexterior3/4frontrightfacing1308-91383.JPG"
+    }
+  },
+  {
+    "make"  : "Dodge",
+    "model" : "Grand Caravan",
+    "price" : 27290,
+    "trim"  : "SE Front-wheel Drive Passenger Van",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/dodge/grand-caravan/2-800-oemexteriorfront1300-93551.JPG"
+    }
+  },
+  {
+    "make"  : "Dodge",
+    "model" : "Journey",
+    "price" : 23495,
+    "trim"  : "SE Value 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/dodge/journey/2-800-oemexteriorfront1300-93549.JPG"
+    }
+  },
+  {
+    "make"  : "Ferrari",
+    "model" : "488 Pista",
+    "price" : 330000,
+    "trim"  : "Base 2dr Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ferrari/488-pista/2-800-oemexteriorfront1300-93560.JPG"
+    }
+  },
+  {
+    "make"  : "Ferrari",
+    "model" : "488 Pista Spider",
+    "price" : 350000,
+    "trim"  : "Base 2dr Convertible",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ferrari/488-pista-spider/2-800-oemexteriorfront1300-93561.JPG"
+    }
+  },
+  {
+    "make"  : "Ferrari",
+    "model" : "812 Superfast",
+    "price" : 335000,
+    "trim"  : "Base 2dr Rear-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ferrari/812-superfast/2-800-oemexteriorfront1300-93559.JPG"
+    }
+  },
+  {
+    "make"  : "Ferrari",
+    "model" : "F8 Spider",
+    "price" : 274280,
+    "trim"  : "Base 2dr Convertible",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ferrari/f8-spider/2-800-oemexteriorfront1300-93706.JPG"
+    }
+  },
+  {
+    "make"  : "Ferrari",
+    "model" : "F8 Tributo",
+    "price" : 276550,
+    "trim"  : "Base 2dr Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ferrari/f8-tributo/2-800-oemexteriorfront1300-93656.JPG"
+    }
+  },
+  {
+    "make"  : "Ferrari",
+    "model" : "GTC4Lusso",
+    "price" : 300000,
+    "trim"  : "V12 2dr All-wheel Drive Wagon",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ferrari/gtc4lusso/2-800-oemexteriorfront1300-93557.JPG"
+    }
+  },
+  {
+    "make"  : "Ferrari",
+    "model" : "Portofino",
+    "price" : 215000,
+    "trim"  : "Base 2dr Rear-wheel Drive Convertible",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ferrari/portofino/2-800-oemexteriorfront1300-93508.JPG"
+    }
+  },
+  {
+    "make"  : "Ferrari",
+    "model" : "SF90 Stradale",
+    "price" : 625000,
+    "trim"  : "Base 2dr Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ferrari/sf90-stradale/2-800-oemexteriorview1303-93655.JPG"
+    }
+  },
+  {
+    "make"  : "FIAT",
+    "model" : "124 Spider",
+    "price" : 25390,
+    "trim"  : "Classica 2dr Convertible",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/fiat/124-spider/2-800-oemexterior3/4frontrightfacing1308-91395.JPG"
+    }
+  },
+  {
+    "make"  : "FIAT",
+    "model" : "500L",
+    "price" : 22500,
+    "trim"  : "Pop 4dr Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/fiat/500l/2-800-oemexteriorfront1300-91392.JPG"
+    }
+  },
+  {
+    "make"  : "FIAT",
+    "model" : "500X",
+    "price" : 24590,
+    "trim"  : "Pop 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/fiat/500x/2-800-oemexteriorfront1300-92711.JPG"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "EcoSport",
+    "price" : 19995,
+    "trim"  : "S Front-wheel Drive Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/ecosport/2-800-oemexteriorfront1300-90591.jpg"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "Edge",
+    "price" : 31100,
+    "trim"  : "SE 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/edge/2-800-oemexteriorfront1300-92102.JPG"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "Escape",
+    "price" : 24885,
+    "trim"  : "S 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/escape/2-800-oemexteriorfront1300-90799.jpg"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "2020 Ford",
+    "price" : 33040,
+    "trim"  : "Escape PHEV SE 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/800-no-img-avail.jpg"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "Expedition",
+    "price" : 48990,
+    "trim"  : "XL 4dr 4x2",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/expedition/2-800-oemexterior3/4frontwhitebackground1311-92109.JPG"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "Expedition Max",
+    "price" : 53025,
+    "trim"  : "XL 4dr 4x2",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/expedition-max/2-800-oemexterior3/4frontwhitebackground1311-92119.JPG"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "Explorer",
+    "price" : 32765,
+    "trim"  : "Base 4dr 4x2",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/explorer/2-800-oemexterior3/4frontrightfacing1308-90361.jpg"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "F-150",
+    "price" : 28495,
+    "trim"  : "XL 4x2 Regular Cab Styleside 6.5 ft. box 122 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/f-150/2-800-oemexteriorfront1300-91831.JPG"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "F-250",
+    "price" : 57500,
+    "trim"  : "King Ranch 4x2 SD Crew Cab 6.75 ft. box 160 in. WB SRW",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/f-250/2-800-oemexteriorfront1300-92477.JPG"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "F-350",
+    "price" : 62410,
+    "trim"  : "King Ranch 4x4 SD Crew Cab 8 ft. box 176 in. WB SRW",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/f-350/2-800-oemexteriorfront1300-92476.JPG"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "F-450",
+    "price" : 57065,
+    "trim"  : "XL 4x4 SD Crew Cab 8 ft. box 176 in. WB DRW",
+    "images": {
+      "showcase": "http://img.autobytel.com/800-no-img-avail.jpg"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "Fusion",
+    "price" : 23170,
+    "trim"  : "S 4dr Front-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/fusion/2-800-oemexterior3/4frontrightfacing1308-90787.jpg"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "Fusion Energi",
+    "price" : 37000,
+    "trim"  : "Titanium 4dr Front-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/fusion-energi/2-800-oemexteriorfront1300-90796.jpg"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "Fusion Hybrid",
+    "price" : 28000,
+    "trim"  : "SE 4dr Front-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/fusion-hybrid/2-800-threequartersview101-90793.jpg"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "Mustang",
+    "price" : 26670,
+    "trim"  : "EcoBoost 2dr Fastback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/mustang/2-800-oemexterior3/4frontrightfacing1308-90932.jpg"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "Ranger",
+    "price" : 24410,
+    "trim"  : "XL 4x2 SuperCab 6 ft. box 126.8 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/ranger/2-800-oemexteriorfront1300-92715.JPG"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "Shelby GT350",
+    "price" : 59140,
+    "trim"  : "Base 2dr Fastback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/shelby-gt350/2-800-oemexteriorfront1300-91772.JPG"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "Shelby GT500",
+    "price" : 70300,
+    "trim"  : "Base 2dr Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/shelby-gt500/2-800-oemexteriorfront1300-91771.JPG"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "Transit Connect",
+    "price" : 24275,
+    "trim"  : "XL Cargo Van",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/transit-connect/2-800-oemexterior3/4frontrightfacing1308-90402.jpg"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "Transit-150 Cargo",
+    "price" : 34510,
+    "trim"  : "Base Rear-wheel Drive Low Roof Van 130 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/transit-150-cargo/2-800-oemexterior3/4frontwhitebackground1311-92129.JPG"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "Transit-150 Crew",
+    "price" : 36720,
+    "trim"  : "Base Rear-wheel Drive Low Roof Van 130 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/transit-150-crew/2-800-oemexterior3/4frontwhitebackground1311-92137.JPG"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "Transit-150 Passenger",
+    "price" : 40180,
+    "trim"  : "XL Rear-wheel Drive Low Roof Van 130 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/transit-150-passenger/2-800-oemexterior3/4frontwhitebackground1311-92145.JPG"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "Transit-250 Cargo",
+    "price" : 35460,
+    "trim"  : "Base Rear-wheel Drive Low Roof Van 130 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/transit-250-cargo/2-800-oemexterior3/4frontwhitebackground1311-92153.JPG"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "Transit-250 Crew",
+    "price" : 37670,
+    "trim"  : "Base Rear-wheel Drive Low Roof Van 130 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/transit-250-crew/2-800-oemexterior3/4frontwhitebackground1311-92165.JPG"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "Transit-350 Cargo",
+    "price" : 36710,
+    "trim"  : "Base Rear-wheel Drive Low Roof Van 130 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/transit-350-cargo/2-800-oemexterior3/4frontwhitebackground1311-92175.JPG"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "Transit-350 Crew",
+    "price" : 38920,
+    "trim"  : "Base Rear-wheel Drive Low Roof Van 130 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/transit-350-crew/2-800-oemexterior3/4frontwhitebackground1311-92191.JPG"
+    }
+  },
+  {
+    "make"  : "Ford",
+    "model" : "Transit-350 Passenger",
+    "price" : 41035,
+    "trim"  : "XL Rear-wheel Drive Low Roof Van 148 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ford/transit-350-passenger/2-800-oemexterior3/4frontwhitebackground1311-92205.JPG"
+    }
+  },
+  {
+    "make"  : "Genesis",
+    "model" : "G70",
+    "price" : 35450,
+    "trim"  : "2.0T 4dr Rear-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/genesis/g70/2-800-threequartersview101-92959.JPG"
+    }
+  },
+  {
+    "make"  : "Genesis",
+    "model" : "G80",
+    "price" : 42550,
+    "trim"  : "3.8 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/genesis/g80/2-800-oemexteriorfront1300-92953.JPG"
+    }
+  },
+  {
+    "make"  : "Genesis",
+    "model" : "G90",
+    "price" : 72200,
+    "trim"  : "3.3T Premium 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/genesis/g90/2-800-oemexteriorfront1300-93657.JPG"
+    }
+  },
+  {
+    "make"  : "GMC",
+    "model" : "Acadia",
+    "price" : 29800,
+    "trim"  : "SL Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/gmc/acadia/2-800-oemexterior3/4frontrightfacing1308-91136.jpg"
+    }
+  },
+  {
+    "make"  : "GMC",
+    "model" : "Canyon",
+    "price" : 22200,
+    "trim"  : "SL 4x2 Extended Cab 6 ft. box 128.3 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/gmc/canyon/2-800-oemexteriorfront1300-91151.jpg"
+    }
+  },
+  {
+    "make"  : "GMC",
+    "model" : "Savana 2500",
+    "price" : 34900,
+    "trim"  : "LS Rear-wheel Drive Passenger Van",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/gmc/savana-2500/2-800-oemexteriorfront1300-91414.JPG"
+    }
+  },
+  {
+    "make"  : "GMC",
+    "model" : "Savana 3500",
+    "price" : 37200,
+    "trim"  : "LS Rear-wheel Drive Passenger Van",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/gmc/savana-3500/2-800-oemexteriorfront1300-91418.JPG"
+    }
+  },
+  {
+    "make"  : "GMC",
+    "model" : "Sierra 1500",
+    "price" : 29600,
+    "trim"  : "Base 4x2 Regular Cab 8 ft. box 139.6 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/gmc/sierra-1500/2-800-oemexterior3/4frontwhitebackground1311-90940.jpg"
+    }
+  },
+  {
+    "make"  : "GMC",
+    "model" : "2020 GMC Sie",
+    "price" : 35600,
+    "trim"  : "rra 2500HD Base 4x2 Regular Cab 8 ft. box 141.6 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/800-no-img-avail.jpg"
+    }
+  },
+  {
+    "make"  : "GMC",
+    "model" : "2020 GMC Sie",
+    "price" : 38000,
+    "trim"  : "rra 3500HD Base 4x2 Regular Cab 8 ft. box 141.6 in. WB DRW",
+    "images": {
+      "showcase": "http://img.autobytel.com/800-no-img-avail.jpg"
+    }
+  },
+  {
+    "make"  : "GMC",
+    "model" : "Terrain",
+    "price" : 25000,
+    "trim"  : "SL Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/gmc/terrain/2-800-oemexteriorfront1300-91144.jpg"
+    }
+  },
+  {
+    "make"  : "GMC",
+    "model" : "Yukon",
+    "price" : 50600,
+    "trim"  : "SLE 4x2",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/gmc/yukon/2-800-oemexteriorfront1300-91398.JPG"
+    }
+  },
+  {
+    "make"  : "GMC",
+    "model" : "Yukon XL",
+    "price" : 53400,
+    "trim"  : "SLE 4x2",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/gmc/yukon-xl/2-800-threequartersview101-91406.JPG"
+    }
+  },
+  {
+    "make"  : "Honda",
+    "model" : "Accord",
+    "price" : 24020,
+    "trim"  : "LX 1.5T 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/honda/accord/2-800-oemexteriorfront1326-92728.JPG"
+    }
+  },
+  {
+    "make"  : "Honda",
+    "model" : "Accord Hybrid",
+    "price" : 25620,
+    "trim"  : "Base 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/honda/accord-hybrid/2-800-oemexteriorfront1300-92976.JPG"
+    }
+  },
+  {
+    "make"  : "Honda",
+    "model" : "Civic",
+    "price" : 23650,
+    "trim"  : "Sport 4dr Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/honda/civic/2-800-oemexteriorfront1326-92489.JPG"
+    }
+  },
+  {
+    "make"  : "Honda",
+    "model" : "Civic Si",
+    "price" : 25200,
+    "trim"  : "Base 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/honda/civic-si/2-800-oemexteriorfront1326-92737.JPG"
+    }
+  },
+  {
+    "make"  : "Honda",
+    "model" : "2020 Honda Clari",
+    "price" : 58490,
+    "trim"  : "ty Fuel Cell Clarity 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/800-no-img-avail.jpg"
+    }
+  },
+  {
+    "make"  : "Honda",
+    "model" : "Clarity Plug-In Hybrid",
+    "price" : 33400,
+    "trim"  : "Base 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/honda/clarity-plug-in-hybrid/2-800-oemexterior3/4frontwhitebackground1311-93661.JPG"
+    }
+  },
+  {
+    "make"  : "Honda",
+    "model" : "CR-V",
+    "price" : 25050,
+    "trim"  : "LX 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/honda/cr-v/2-800-oemexteriorfront1326-93343.JPG"
+    }
+  },
+  {
+    "make"  : "Honda",
+    "model" : "Fit",
+    "price" : 16190,
+    "trim"  : "LX 4dr Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/honda/fit/2-800-oemexteriorfront1326-93562.JPG"
+    }
+  },
+  {
+    "make"  : "Honda",
+    "model" : "HR-V",
+    "price" : 20820,
+    "trim"  : "LX 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/honda/hr-v/2-800-oemexteriorfront1300-93351.JPG"
+    }
+  },
+  {
+    "make"  : "Honda",
+    "model" : "Insight",
+    "price" : 22930,
+    "trim"  : "LX 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/honda/insight/2-800-oemexteriorfront1326-91773.JPG"
+    }
+  },
+  {
+    "make"  : "Honda",
+    "model" : "Odyssey",
+    "price" : 47420,
+    "trim"  : "Elite Passenger Van",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/honda/odyssey/2-800-oemexteriorfront1326-92495.JPG"
+    }
+  },
+  {
+    "make"  : "Honda",
+    "model" : "Passport",
+    "price" : 39280,
+    "trim"  : "Touring 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/honda/passport/2-800-oemexteriorfront1300-93500.JPG"
+    }
+  },
+  {
+    "make"  : "Honda",
+    "model" : "Pilot",
+    "price" : 33650,
+    "trim"  : "LX 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/honda/pilot/2-800-oemexteriorfront1300-92225.JPG"
+    }
+  },
+  {
+    "make"  : "Honda",
+    "model" : "Ridgeline",
+    "price" : 33900,
+    "trim"  : "Sport Front-wheel Drive Crew Cab 125.2 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/honda/ridgeline/2-800-oemexteriorfront1326-93568.JPG"
+    }
+  },
+  {
+    "make"  : "Hyundai",
+    "model" : "Accent",
+    "price" : 15295,
+    "trim"  : "SE 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/hyundai/accent/2-800-oemexteriorfront1300-92239.JPG"
+    }
+  },
+  {
+    "make"  : "Hyundai",
+    "model" : "Elantra",
+    "price" : 19150,
+    "trim"  : "SE 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/hyundai/elantra/2-800-oemexteriorfront1300-90810.jpg"
+    }
+  },
+  {
+    "make"  : "Hyundai",
+    "model" : "Elantra GT",
+    "price" : 20650,
+    "trim"  : "Base 4dr Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/hyundai/elantra-gt/2-800-oemexteriorfront1300-92980.JPG"
+    }
+  },
+  {
+    "make"  : "Hyundai",
+    "model" : "IONIQ Hybrid",
+    "price" : 28400,
+    "trim"  : "SEL 4dr Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/hyundai/ioniq-hybrid/2-800-oemexteriorfront1300-93509.JPG"
+    }
+  },
+  {
+    "make"  : "Hyundai",
+    "model" : "Ioniq Plug-In Hybrid",
+    "price" : 26500,
+    "trim"  : "SE 4dr Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/hyundai/ioniq-plug-in-hybrid/2-800-oemexterior3/4frontrightfacing1308-93505.JPG"
+    }
+  },
+  {
+    "make"  : "Hyundai",
+    "model" : "Kona",
+    "price" : 20300,
+    "trim"  : "SE 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/hyundai/kona/2-800-oemexteriorfront1300-92243.JPG"
+    }
+  },
+  {
+    "make"  : "Hyundai",
+    "model" : "Kona EV",
+    "price" : 37190,
+    "trim"  : "SEL 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/hyundai/kona-ev/2-800-oemexteriorfront1300-93364.JPG"
+    }
+  },
+  {
+    "make"  : "Hyundai",
+    "model" : "NEXO",
+    "price" : 58735,
+    "trim"  : "Blue 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/hyundai/nexo/2-800-oemexteriorfront1300-93233.JPG"
+    }
+  },
+  {
+    "make"  : "Hyundai",
+    "model" : "Palisade",
+    "price" : 31775,
+    "trim"  : "SE 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/hyundai/palisade/2-800-oemexteriorfront1300-91444.JPG"
+    }
+  },
+  {
+    "make"  : "Hyundai",
+    "model" : "Santa Fe",
+    "price" : 26125,
+    "trim"  : "SE 2.4 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/hyundai/santa-fe/2-800-oemexteriorfront1300-91431.JPG"
+    }
+  },
+  {
+    "make"  : "Hyundai",
+    "model" : "Sonata",
+    "price" : 23600,
+    "trim"  : "SE 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/hyundai/sonata/2-800-oemexteriorfront1300-93360.JPG"
+    }
+  },
+  {
+    "make"  : "Hyundai",
+    "model" : "Tucson",
+    "price" : 25950,
+    "trim"  : "SEL 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/hyundai/tucson/2-800-oemexteriorfront1300-92492.JPG"
+    }
+  },
+  {
+    "make"  : "Hyundai",
+    "model" : "Veloster",
+    "price" : 18800,
+    "trim"  : "2.0 3dr Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/hyundai/veloster/2-800-oemexteriorprofilerightfacing1310-91424.JPG"
+    }
+  },
+  {
+    "make"  : "Hyundai",
+    "model" : "Veloster N",
+    "price" : 27600,
+    "trim"  : "N 3dr Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/hyundai/veloster-n/2-800-oemexteriorfront1300-91430.JPG"
+    }
+  },
+  {
+    "make"  : "Hyundai",
+    "model" : "Venue",
+    "price" : 17350,
+    "trim"  : "SE 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/hyundai/venue/2-800-oemexteriorfront1300-93367.JPG"
+    }
+  },
+  {
+    "make"  : "Infiniti",
+    "model" : "Q50",
+    "price" : 36400,
+    "trim"  : "3.0t PURE 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/infiniti/q50/2-800-oemexteriorfront1300-92741.JPG"
+    }
+  },
+  {
+    "make"  : "Infiniti",
+    "model" : "Q60",
+    "price" : 41350,
+    "trim"  : "3.0t PURE 2dr Rear-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/infiniti/q60/2-800-oemexteriorfront1300-93371.JPG"
+    }
+  },
+  {
+    "make"  : "Infiniti",
+    "model" : "QX50",
+    "price" : 37250,
+    "trim"  : "PURE 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/infiniti/qx50/2-800-oemexteriorfront1300-92983.JPG"
+    }
+  },
+  {
+    "make"  : "Infiniti",
+    "model" : "QX60",
+    "price" : 44350,
+    "trim"  : "PURE 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/infiniti/qx60/2-800-oemexteriorfront1300-91450.JPG"
+    }
+  },
+  {
+    "make"  : "Infiniti",
+    "model" : "QX80",
+    "price" : 66750,
+    "trim"  : "LUXE 4dr 4x2",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/infiniti/qx80/2-800-oemexteriorfront1300-93377.JPG"
+    }
+  },
+  {
+    "make"  : "Jaguar",
+    "model" : "E-PACE",
+    "price" : 39950,
+    "trim"  : "Base All-wheel Drive Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/jaguar/e-pace/2-800-oemexteriorfront1300-91222.jpg"
+    }
+  },
+  {
+    "make"  : "Jaguar",
+    "model" : "F-PACE",
+    "price" : 45200,
+    "trim"  : "25t All-wheel Drive Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/jaguar/f-pace/2-800-oemexterior3/4frontrightfacing1308-91210.jpg"
+    }
+  },
+  {
+    "make"  : "Jaguar",
+    "model" : "F-TYPE",
+    "price" : 61600,
+    "trim"  : "P300 2dr Rear-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/jaguar/f-type/2-800-oemexteriorfront1300-90418.jpg"
+    }
+  },
+  {
+    "make"  : "Jaguar",
+    "model" : "I-PACE",
+    "price" : 69850,
+    "trim"  : "S 4dr All-wheel Drive Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/jaguar/i-pace/2-800-oemexteriorfront1300-90833.jpg"
+    }
+  },
+  {
+    "make"  : "Jaguar",
+    "model" : "XE",
+    "price" : 39900,
+    "trim"  : "S 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/jaguar/xe/2-800-oemexteriorfront1300-90830.jpg"
+    }
+  },
+  {
+    "make"  : "Jaguar",
+    "model" : "XF",
+    "price" : 51100,
+    "trim"  : "25t Premium 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/jaguar/xf/2-800-oemexterior3/4frontrightfacing1308-90820.jpg"
+    }
+  },
+  {
+    "make"  : "Jeep",
+    "model" : "Cherokee",
+    "price" : 25740,
+    "trim"  : "Latitude 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/jeep/cherokee/2-800-oemexteriorfront1300-91456.JPG"
+    }
+  },
+  {
+    "make"  : "Jeep",
+    "model" : "Compass",
+    "price" : 22105,
+    "trim"  : "Sport 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/jeep/compass/2-800-oemexterior3/4frontwhitebackground1311-91476.JPG"
+    }
+  },
+  {
+    "make"  : "Jeep",
+    "model" : "Grand Cherokee",
+    "price" : 32045,
+    "trim"  : "Laredo 4dr 4x2",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/jeep/grand-cherokee/2-800-oemexteriorfront1300-91465.JPG"
+    }
+  },
+  {
+    "make"  : "Jeep",
+    "model" : "Renegade",
+    "price" : 22275,
+    "trim"  : "Sport 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/jeep/renegade/2-800-oemexteriorfront1300-91486.JPG"
+    }
+  },
+  {
+    "make"  : "Jeep",
+    "model" : "Wrangler",
+    "price" : 28295,
+    "trim"  : "Sport 2dr 4x4",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/jeep/wrangler/2-800-oemexteriorfront1300-91454.JPG"
+    }
+  },
+  {
+    "make"  : "Jeep",
+    "model" : "Wrangler Unlimited",
+    "price" : 31795,
+    "trim"  : "Sport 4dr 4x4",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/jeep/wrangler-unlimited/2-800-oemexteriorfront1300-91483.JPG"
+    }
+  },
+  {
+    "make"  : "Kia",
+    "model" : "Forte",
+    "price" : 22490,
+    "trim"  : "GT 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/kia/forte/2-800-oemexteriorfront1300-92496.JPG"
+    }
+  },
+  {
+    "make"  : "Kia",
+    "model" : "K900",
+    "price" : 59900,
+    "trim"  : "Luxury 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/kia/k900/2-800-oemexteriorfront1300-93575.JPG"
+    }
+  },
+  {
+    "make"  : "Kia",
+    "model" : "Optima",
+    "price" : 23390,
+    "trim"  : "LX 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/kia/optima/2-800-oemexteriorfront1300-92752.JPG"
+    }
+  },
+  {
+    "make"  : "Kia",
+    "model" : "Optima Hybrid",
+    "price" : 29310,
+    "trim"  : "EX 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/kia/optima-hybrid/2-800-oemexteriorfront1300-91005.jpg"
+    }
+  },
+  {
+    "make"  : "Kia",
+    "model" : "Optima Plug-In Hybrid",
+    "price" : 36090,
+    "trim"  : "EX 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/kia/optima-plug-in-hybrid/2-800-oemexteriorfront1300-91006.jpg"
+    }
+  },
+  {
+    "make"  : "Kia",
+    "model" : "Rio",
+    "price" : 15850,
+    "trim"  : "LX 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/kia/rio/2-800-oemexteriorfront1300-92749.JPG"
+    }
+  },
+  {
+    "make"  : "Kia",
+    "model" : "Sedona",
+    "price" : 27600,
+    "trim"  : "L Passenger Van",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/kia/sedona/2-800-oemexteriorfront1300-92757.JPG"
+    }
+  },
+  {
+    "make"  : "Kia",
+    "model" : "Sorento",
+    "price" : 26990,
+    "trim"  : "2.4L L 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/kia/sorento/2-800-oemexterior3/4frontrightfacing1308-92993.JPG"
+    }
+  },
+  {
+    "make"  : "Kia",
+    "model" : "Soul",
+    "price" : 17490,
+    "trim"  : "LX 4dr Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/kia/soul/2-800-oemexteriorfront1300-90434.jpg"
+    }
+  },
+  {
+    "make"  : "Kia",
+    "model" : "Sportage",
+    "price" : 23990,
+    "trim"  : "LX 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/kia/sportage/2-800-oemexteriorfront1300-90601.jpg"
+    }
+  },
+  {
+    "make"  : "Kia",
+    "model" : "Stinger",
+    "price" : 50300,
+    "trim"  : "GT2 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/kia/stinger/2-800-oemexteriorfront1300-93502.JPG"
+    }
+  },
+  {
+    "make"  : "Kia",
+    "model" : "Telluride",
+    "price" : 31890,
+    "trim"  : "LX 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/kia/telluride/2-800-oemexterior3/4frontrightfacing1308-90441.jpg"
+    }
+  },
+  {
+    "make"  : "Lamborghini",
+    "model" : "Huracan EVO",
+    "price" : 261274,
+    "trim"  : "Base 2dr All-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lamborghini/huracan-evo/2-800-oemexteriorfront1300-90449.jpg"
+    }
+  },
+  {
+    "make"  : "Lamborghini",
+    "model" : "Urus",
+    "price" : 207326,
+    "trim"  : "Base 4dr All-wheel Drive Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lamborghini/urus/2-800-oemexteriorfront1300-93576.JPG"
+    }
+  },
+  {
+    "make"  : "Land Rover",
+    "model" : "Defender",
+    "price" : 49900,
+    "trim"  : "110 Standard 4dr 4x4",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/land-rover/defender/2-800-oemexteriorfront1300-93034.JPG"
+    }
+  },
+  {
+    "make"  : "Land Rover",
+    "model" : "Discovery",
+    "price" : 52300,
+    "trim"  : "SE 4dr 4x4",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/land-rover/discovery/2-800-oemexteriorfront1300-90689.jpg"
+    }
+  },
+  {
+    "make"  : "Land Rover",
+    "model" : "Discovery Sport",
+    "price" : 37800,
+    "trim"  : "Standard 4dr 4x4",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/land-rover/discovery-sport/2-800-oemexteriorfront1300-91505.JPG"
+    }
+  },
+  {
+    "make"  : "Land Rover",
+    "model" : "Range Rover",
+    "price" : 90900,
+    "trim"  : "Base 4dr 4x4",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/land-rover/range-rover/2-800-oemexteriorfront1300-91493.JPG"
+    }
+  },
+  {
+    "make"  : "Land Rover",
+    "model" : "Range Rover Evoque",
+    "price" : 42650,
+    "trim"  : "S All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/land-rover/range-rover-evoque/2-800-oemexteriorfront1300-90610.jpg"
+    }
+  },
+  {
+    "make"  : "Land Rover",
+    "model" : "Range Rover Sport",
+    "price" : 68650,
+    "trim"  : "SE MHEV 4dr 4x4",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/land-rover/range-rover-sport/2-800-oemexteriorfront1300-90696.jpg"
+    }
+  },
+  {
+    "make"  : "Land Rover",
+    "model" : "Range Rover Velar",
+    "price" : 56300,
+    "trim"  : "P250 S 4dr 4x4",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/land-rover/range-rover-velar/2-800-oemexteriorfront1300-90706.jpg"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "ES 300h",
+    "price" : 41760,
+    "trim"  : "Base 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/es-300h/2-800-oemexteriorfront1300-93002.JPG"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "ES 350",
+    "price" : 39900,
+    "trim"  : "Base 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/es-350/2-800-oemexteriorfront1300-92765.JPG"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "GS 350",
+    "price" : 51395,
+    "trim"  : "Base 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/gs-350/2-800-oemexteriorfront1300-92769.JPG"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "GS F",
+    "price" : 85010,
+    "trim"  : "Base 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/gs-f/2-800-oemexteriorfront1300-92773.JPG"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "GX 460",
+    "price" : 53000,
+    "trim"  : "Base 4dr 4x4",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/gx-460/2-800-oemexteriorfront1300-93024.JPG"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "IS 300",
+    "price" : 38560,
+    "trim"  : "Base 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/is-300/2-800-oemexterior3/4frontrightfacing1308-92761.JPG"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "IS 350",
+    "price" : 42180,
+    "trim"  : "Base 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/is-350/2-800-oemexterior3/4frontrightfacing1308-92763.JPG"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "LC 500",
+    "price" : 92950,
+    "trim"  : "Base 2dr Rear-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/lc-500/2-800-oemexteriorfront1300-93005.JPG"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "LC 500h",
+    "price" : 97460,
+    "trim"  : "Base 2dr Rear-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/lc-500h/2-800-oemexteriorfront1300-93006.JPG"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "LS 500",
+    "price" : 75450,
+    "trim"  : "Base 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/ls-500/2-800-oemexteriorfront1300-93007.JPG"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "LS 500h",
+    "price" : 79960,
+    "trim"  : "Base 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/ls-500h/2-800-oemexteriorfront1300-93013.JPG"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "LX 570",
+    "price" : 86380,
+    "trim"  : "Two-Row 4dr 4x4",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/lx-570/2-800-oemexterior3/4frontrightfacing1308-92774.JPG"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "NX 300",
+    "price" : 36870,
+    "trim"  : "Base 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/nx-300/2-800-oemexteriorfront1300-90838.jpg"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "NX 300h",
+    "price" : 39420,
+    "trim"  : "Base 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/nx-300h/2-800-oemexterior3/4frontrightfacing1308-90836.jpg"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "RC 300",
+    "price" : 41295,
+    "trim"  : "Base 2dr Rear-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/rc-300/2-800-oemexteriorfront1300-93386.JPG"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "RC 350",
+    "price" : 44225,
+    "trim"  : "Base 2dr Rear-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/rc-350/2-800-oemexteriorfront1300-93382.JPG"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "RC F",
+    "price" : 64900,
+    "trim"  : "Base 2dr Rear-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/rc-f/2-800-oemexteriorfront1300-90536.jpg"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "RX 350",
+    "price" : 44150,
+    "trim"  : "Base 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/rx-350/2-800-oemexteriorfront1300-93015.JPG"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "RX 350L",
+    "price" : 47300,
+    "trim"  : "Base 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/rx-350l/2-800-oemexteriorfront1300-92776.JPG"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "RX 450h",
+    "price" : 46750,
+    "trim"  : "Base 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/rx-450h/2-800-oemexteriorfront1300-93021.JPG"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "RX 450hL",
+    "price" : 50460,
+    "trim"  : "Base 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/rx-450hl/2-800-oemexteriorfront1300-93026.JPG"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "UX 200",
+    "price" : 32300,
+    "trim"  : "Base 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/ux-200/2-800-oemexteriorfront1300-93028.JPG"
+    }
+  },
+  {
+    "make"  : "Lexus",
+    "model" : "UX 250h",
+    "price" : 34500,
+    "trim"  : "Base 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lexus/ux-250h/2-800-oemexteriorfront1300-93031.JPG"
+    }
+  },
+  {
+    "make"  : "Lincoln",
+    "model" : "Aviator",
+    "price" : 51100,
+    "trim"  : "Standard 4dr Rear-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lincoln/aviator/2-800-oemexteriorfront1300-90369.jpg"
+    }
+  },
+  {
+    "make"  : "Lincoln",
+    "model" : "Continental",
+    "price" : 46305,
+    "trim"  : "Standard 4dr Front-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lincoln/continental/2-800-oemexteriorfront1300-92253.JPG"
+    }
+  },
+  {
+    "make"  : "Lincoln",
+    "model" : "Corsair",
+    "price" : 38145,
+    "trim"  : "Standard 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lincoln/corsair/2-800-oemexteriorfront1300-91234.jpg"
+    }
+  },
+  {
+    "make"  : "Lincoln",
+    "model" : "MKZ",
+    "price" : 36750,
+    "trim"  : "Standard 4dr Front-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lincoln/mkz/2-800-oemexteriorfront1300-91228.jpg"
+    }
+  },
+  {
+    "make"  : "Lincoln",
+    "model" : "MKZ Hybrid",
+    "price" : 36750,
+    "trim"  : "Standard 4dr Front-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lincoln/mkz-hybrid/2-800-oemexterior3/4frontwhitebackground1311-91232.jpg"
+    }
+  },
+  {
+    "make"  : "Lincoln",
+    "model" : "Nautilus",
+    "price" : 41040,
+    "trim"  : "Standard 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lincoln/nautilus/2-800-oemexteriorfront1300-92780.JPG"
+    }
+  },
+  {
+    "make"  : "Lincoln",
+    "model" : "Navigator",
+    "price" : 75825,
+    "trim"  : "Standard 4dr 4x2",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lincoln/navigator/2-800-oemexteriorfront1300-92261.JPG"
+    }
+  },
+  {
+    "make"  : "Lincoln",
+    "model" : "Navigator L",
+    "price" : 79025,
+    "trim"  : "Standard 4dr 4x2",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/lincoln/navigator-l/2-800-oemexteriorfront1300-92266.JPG"
+    }
+  },
+  {
+    "make"  : "Maserati",
+    "model" : "Ghibli",
+    "price" : 69490,
+    "trim"  : "Base 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/maserati/ghibli/2-800-oemexteriorfront1300-91885.JPG"
+    }
+  },
+  {
+    "make"  : "Maserati",
+    "model" : "Levante",
+    "price" : 72990,
+    "trim"  : "Base All-wheel Drive Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/maserati/levante/2-800-oemexteriorfront1300-92294.JPG"
+    }
+  },
+  {
+    "make"  : "Maserati",
+    "model" : "Quattroporte",
+    "price" : 99490,
+    "trim"  : "S 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/maserati/quattroporte/2-800-oemexteriorfront1300-92286.JPG"
+    }
+  },
+  {
+    "make"  : "Mazda",
+    "model" : "CX-3",
+    "price" : 20640,
+    "trim"  : "Sport 4dr Front-wheel Drive Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mazda/cx-3/2-800-oemexteriorfront1300-93577.JPG"
+    }
+  },
+  {
+    "make"  : "Mazda",
+    "model" : "CX-30",
+    "price" : 21900,
+    "trim"  : "Base 4dr Front-wheel Drive Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mazda/cx-30/2-800-oemexteriorfront1326-93410.JPG"
+    }
+  },
+  {
+    "make"  : "Mazda",
+    "model" : "CX-5",
+    "price" : 25090,
+    "trim"  : "Sport 4dr Front-wheel Drive Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mazda/cx-5/2-800-oemexteriorfront1300-93402.JPG"
+    }
+  },
+  {
+    "make"  : "Mazda",
+    "model" : "CX-9",
+    "price" : 33890,
+    "trim"  : "Sport 4dr Front-wheel Drive Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mazda/cx-9/2-800-oemexterior3/4frontrightfacing1308-93395.JPG"
+    }
+  },
+  {
+    "make"  : "Mazda",
+    "model" : "Mazda3",
+    "price" : 28900,
+    "trim"  : "Premium Package 4dr i-ACTIV All-wheel Drive Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mazda/mazda3/2-800-oemexteriorfront1300-92519.JPG"
+    }
+  },
+  {
+    "make"  : "Mazda",
+    "model" : "Mazda6",
+    "price" : 24100,
+    "trim"  : "Sport 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mazda/mazda6/2-800-oemexteriorfront1300-93390.JPG"
+    }
+  },
+  {
+    "make"  : "Mazda",
+    "model" : "MX-5 Miata",
+    "price" : 26580,
+    "trim"  : "Sport 2dr Convertible",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mazda/mx-5-miata/2-800-oemexteriorfront1300-93711.JPG"
+    }
+  },
+  {
+    "make"  : "Mazda",
+    "model" : "MX-5 Miata RF",
+    "price" : 33045,
+    "trim"  : "Club 2dr Convertible",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mazda/mx-5-miata-rf/2-800-oemexteriorfront1300-93714.JPG"
+    }
+  },
+  {
+    "make"  : "McLaren",
+    "model" : "600LT",
+    "price" : 256500,
+    "trim"  : "Base Rear-wheel Drive Spider",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mclaren/600lt/2-800-oemexteriorfront1300-92815.JPG"
+    }
+  },
+  {
+    "make"  : "McLaren",
+    "model" : "720S",
+    "price" : 299000,
+    "trim"  : "Base 2dr Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mclaren/720s/2-800-oemexteriorfront1300-93237.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "A-Class",
+    "price" : 32800,
+    "trim"  : "Base A 220 Front-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/a-class/2-800-oemexteriorfront1300-91246.jpg"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "AMG C 43",
+    "price" : 55950,
+    "trim"  : "Base AMG C 43 4dr All-wheel Drive 4MATIC Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/amg-c-43/2-800-oemexteriorfront1300-91520.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "AMG C 63",
+    "price" : 68100,
+    "trim"  : "Base AMG C 63 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/amg-c-63/2-800-oemexteriorfront1300-91517.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "AMG CLA 35",
+    "price" : 46900,
+    "trim"  : "Base AMG CLA 35 Coupe 4dr All-wheel Drive 4MATIC",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/amg-cla-35/2-800-oemexteriorfront1300-93580.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "AMG CLA 45",
+    "price" : 54800,
+    "trim"  : "Base AMG CLA 45 Coupe 4dr All-wheel Drive 4MATIC",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/amg-cla-45/2-800-threequartersview101-93579.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "AMG CLS 53",
+    "price" : 81200,
+    "trim"  : "Base AMG CLS 53 Coupe 4dr All-wheel Drive 4MATIC+",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/amg-cls-53/2-800-oemexteriorfront1300-92282.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "AMG E 53",
+    "price" : 73800,
+    "trim"  : "Base AMG E 53 4dr All-wheel Drive 4MATIC+ Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/amg-e-53/2-800-oemexterior3/4frontrightfacing1308-91881.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "AMG E 63",
+    "price" : 107350,
+    "trim"  : "S AMG E 63 4dr All-wheel Drive 4MATIC+ Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/amg-e-63/2-800-oemexterior3/4frontwhitebackground1311-92273.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "AMG G 63",
+    "price" : 156450,
+    "trim"  : "Base AMG G 63 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/amg-g-63/2-800-oemexteriorfront1300-93419.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "AMG GLC 43",
+    "price" : 59500,
+    "trim"  : "Base AMG GLC 43 4dr All-wheel Drive 4MATIC",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/amg-glc-43/2-800-oemexteriorfront1300-92790.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "AMG GLC 63",
+    "price" : 73750,
+    "trim"  : "Base AMG GLC 63 4dr All-wheel Drive 4MATIC+",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/amg-glc-63/2-800-oemexteriorfront1300-91529.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "AMG GT",
+    "price" : 115900,
+    "trim"  : "Base AMG GT Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/amg-gt/2-800-oemexteriorfront1300-90616.jpg"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "AMG GT 53",
+    "price" : 99950,
+    "trim"  : "Base AMG GT 53 Coupe 4dr",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/amg-gt-53/2-800-oemexteriorfront1300-91781.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "AMG GT 63",
+    "price" : 140250,
+    "trim"  : "Base AMG GT 63 Coupe 4dr",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/amg-gt-63/2-800-oemexteriorfront1300-91524.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "AMG S 63",
+    "price" : 151600,
+    "trim"  : "Base AMG S 63 4dr All-wheel Drive 4MATIC+ Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/amg-s-63/2-800-oemexteriorfront1300-91879.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "AMG S 65",
+    "price" : 235600,
+    "trim"  : "Base AMG S 65 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/amg-s-65/2-800-oemexteriorfront1300-91519.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "AMG SLC 43",
+    "price" : 64650,
+    "trim"  : "Base AMG SLC 43 2dr Roadster",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/amg-slc-43/2-800-oemexterior3/4frontrightfacing1308-92789.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "C-Class",
+    "price" : 53950,
+    "trim"  : "Base C 300 Rear-wheel Drive Cabriolet",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/c-class/2-800-oemexteriorfront1300-91240.jpg"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "CLA 250",
+    "price" : 36650,
+    "trim"  : "Base CLA 250 Coupe 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/cla-250/2-800-oemexteriorfront1300-92544.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "CLS 450",
+    "price" : 69950,
+    "trim"  : "Base CLS 450 Coupe 4dr Rear-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/cls-450/2-800-oemexteriorfront1300-91523.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "E-Class",
+    "price" : 56550,
+    "trim"  : "Base E 350 4dr All-wheel Drive 4MATIC Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/e-class/2-800-oemexteriorfront1300-91238.jpg"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "G-Class",
+    "price" : 130900,
+    "trim"  : "Base G 550 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/g-class/2-800-oemexteriorfront1300-93418.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "GLA 250",
+    "price" : 34250,
+    "trim"  : "Base GLA 250 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/gla-250/2-800-oemexteriorfront1300-91009.jpg"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "GLB 250",
+    "price" : 36600,
+    "trim"  : "Base GLB 250 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/glb-250/2-800-oemexteriorfront1300-93235.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "GLC 300",
+    "price" : 42500,
+    "trim"  : "Base GLC 300 4dr 4x2",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/glc-300/2-800-oemexteriorfront1300-91526.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "GLC 350e",
+    "price" : 51900,
+    "trim"  : "Base GLC 350e 4dr All-wheel Drive 4MATIC",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/glc-350e/2-800-oemexteriorfront1300-93420.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "GLE 350",
+    "price" : 56750,
+    "trim"  : "Base GLE 350 4dr All-wheel Drive 4MATIC",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/gle-350/2-800-oemexteriorfront1300-90374.jpg"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "GLE 450",
+    "price" : 61750,
+    "trim"  : "Base GLE 450 4dr All-wheel Drive 4MATIC",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/gle-450/2-800-oemexteriorfront1300-90375.jpg"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "GLE 580",
+    "price" : 77600,
+    "trim"  : "Base GLE 580 4dr All-wheel Drive 4MATIC",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/gle-580/2-800-oemexteriorfront1300-91011.jpg"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "GLS 450",
+    "price" : 75950,
+    "trim"  : "Base GLS 450 4dr All-wheel Drive 4MATIC",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/gls-450/2-800-oemexteriorfront1300-91782.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "GLS 580",
+    "price" : 98800,
+    "trim"  : "Base GLS 580 4dr All-wheel Drive 4MATIC",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/gls-580/2-800-oemexteriorfront1300-93040.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "Maybach S 560",
+    "price" : 173000,
+    "trim"  : "Base Maybach S 560 4dr All-wheel Drive 4MATIC Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/maybach-s-560/2-800-oemexteriorfront1300-92280.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "Maybach S 650",
+    "price" : 202550,
+    "trim"  : "Base Maybach S 650 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/maybach-s-650/2-800-oemexteriorfront1300-92281.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "Metris",
+    "price" : 31390,
+    "trim"  : "Base Metris Cargo Van 126 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/metris/2-800-oemexteriorprofilerightfacing1310-91253.jpg"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "S-Class",
+    "price" : 97250,
+    "trim"  : "Base S 450 4dr All-wheel Drive 4MATIC Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/s-class/2-800-oemexteriorfront1300-91515.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "SL 450",
+    "price" : 91000,
+    "trim"  : "Base SL 450 2dr Roadster",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/sl-450/2-800-oemexteriorfront1300-91778.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "SL 550",
+    "price" : 114700,
+    "trim"  : "Base SL 550 2dr Roadster",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/sl-550/2-800-oemexteriorfront1300-91779.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "SLC 300",
+    "price" : 49950,
+    "trim"  : "Base SLC 300 2dr Roadster",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/slc-300/2-800-oemexteriorfront1300-92788.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "Sprinter 1500",
+    "price" : 34495,
+    "trim"  : "Standard Roof I4 Sprinter 1500 Rear-wheel Drive Cargo Van 144 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/sprinter-1500/2-800-oemexterior3/4frontwhitebackground1311-91256.jpg"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "Sprinter 2500",
+    "price" : 47220,
+    "trim"  : "Standard Roof V6 Sprinter 2500 Passenger Van 144 in. WB Rear-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/sprinter-2500/2-800-threequartersview101-91248.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "Sprinter 3500",
+    "price" : 45745,
+    "trim"  : "High Roof V6 Sprinter 3500 Cargo Van 144 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/sprinter-3500/2-800-threequartersview101-91546.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "Sprinter 3500XD",
+    "price" : 45320,
+    "trim"  : "Standard Roof V6 Sprinter 3500XD Cargo Van 144 in. WB Rear-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mercedes-benz/sprinter-3500xd/2-800-oemexterior3/4frontwhitebackground1311-91551.JPG"
+    }
+  },
+  {
+    "make"  : "Mercedes-Benz",
+    "model" : "2020 Mercede",
+    "price" : 51045,
+    "trim"  : "s-Benz Sprinter 4500 Standard Roof V6 Sprinter 4500 Crew Van 144 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/800-no-img-avail.jpg"
+    }
+  },
+  {
+    "make"  : "MINI",
+    "model" : "Clubman",
+    "price" : 30900,
+    "trim"  : "Cooper S 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mini/clubman/2-800-oemexteriorfront1300-91783.JPG"
+    }
+  },
+  {
+    "make"  : "MINI",
+    "model" : "Convertible",
+    "price" : 28400,
+    "trim"  : "Cooper 2dr",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mini/convertible/2-800-oemexteriorfront1300-92283.JPG"
+    }
+  },
+  {
+    "make"  : "MINI",
+    "model" : "Countryman",
+    "price" : 28400,
+    "trim"  : "Cooper 4dr Front-wheel Drive Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mini/countryman/2-800-oemexteriorfront1300-91576.JPG"
+    }
+  },
+  {
+    "make"  : "MINI",
+    "model" : "E Countryman",
+    "price" : 37900,
+    "trim"  : "Cooper S 4dr All-wheel Drive ALL4 Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mini/e-countryman/2-800-oemexteriorfront1300-91581.JPG"
+    }
+  },
+  {
+    "make"  : "MINI",
+    "model" : "Hardtop",
+    "price" : 23400,
+    "trim"  : "Cooper 2dr",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mini/hardtop/2-800-oemexterior3/4frontwhitebackground1311-91571.JPG"
+    }
+  },
+  {
+    "make"  : "Mitsubishi",
+    "model" : "Eclipse Cross",
+    "price" : 22995,
+    "trim"  : "ES 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mitsubishi/eclipse-cross/2-800-oemexterior3/4frontwhitebackground1311-91563.JPG"
+    }
+  },
+  {
+    "make"  : "Mitsubishi",
+    "model" : "Mirage",
+    "price" : 13995,
+    "trim"  : "ES 4dr Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mitsubishi/mirage/2-800-oemexteriorfront1300-93041.JPG"
+    }
+  },
+  {
+    "make"  : "Mitsubishi",
+    "model" : "Mirage G4",
+    "price" : 14995,
+    "trim"  : "ES 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mitsubishi/mirage-g4/2-800-oemexteriorfront1300-93045.JPG"
+    }
+  },
+  {
+    "make"  : "Mitsubishi",
+    "model" : "Outlander",
+    "price" : 24895,
+    "trim"  : "ES 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mitsubishi/outlander/2-800-oemexteriorprofilerightfacing1310-92792.JPG"
+    }
+  },
+  {
+    "make"  : "Mitsubishi",
+    "model" : "Outlander PHEV",
+    "price" : 36295,
+    "trim"  : "SEL 4dr AWC",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mitsubishi/outlander-phev/2-800-oemexteriorfront1300-92811.JPG"
+    }
+  },
+  {
+    "make"  : "Mitsubishi",
+    "model" : "Outlander Sport",
+    "price" : 22595,
+    "trim"  : "2.0 ES 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/mitsubishi/outlander-sport/2-800-oemexterior3/4frontwhitebackground1311-92803.JPG"
+    }
+  },
+  {
+    "make"  : "Nissan",
+    "model" : "370Z",
+    "price" : 30090,
+    "trim"  : "Base 2dr Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/nissan/370z/2-800-oemexteriorfront1300-90619.jpg"
+    }
+  },
+  {
+    "make"  : "Nissan",
+    "model" : "Altima",
+    "price" : 24100,
+    "trim"  : "2.5 S 4dr Front-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/nissan/altima/2-800-oemexteriorfront1300-91582.JPG"
+    }
+  },
+  {
+    "make"  : "Nissan",
+    "model" : "Armada",
+    "price" : 47100,
+    "trim"  : "SV 4dr 4x2",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/nissan/armada/2-800-oemexteriorfront1300-93050.JPG"
+    }
+  },
+  {
+    "make"  : "Nissan",
+    "model" : "GT-R",
+    "price" : 113540,
+    "trim"  : "Premium 2dr All-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/nissan/gt-r/2-800-oemexteriorfront1300-92310.JPG"
+    }
+  },
+  {
+    "make"  : "Nissan",
+    "model" : "Kicks",
+    "price" : 18870,
+    "trim"  : "S 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/nissan/kicks/2-800-oemexteriorfront1300-93501.JPG"
+    }
+  },
+  {
+    "make"  : "Nissan",
+    "model" : "LEAF",
+    "price" : 31600,
+    "trim"  : "S 4dr Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/nissan/leaf/2-800-oemexteriorfront1300-93719.JPG"
+    }
+  },
+  {
+    "make"  : "Nissan",
+    "model" : "Maxima",
+    "price" : 34250,
+    "trim"  : "3.5 S 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/nissan/maxima/2-800-oemexteriorfront1300-92302.JPG"
+    }
+  },
+  {
+    "make"  : "Nissan",
+    "model" : "Murano",
+    "price" : 31530,
+    "trim"  : "S 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/nissan/murano/2-800-oemexterior3/4frontrightfacing1308-92816.JPG"
+    }
+  },
+  {
+    "make"  : "Nissan",
+    "model" : "NV Cargo NV1500",
+    "price" : 29890,
+    "trim"  : "S V6 3dr Rear-wheel Drive Cargo Van",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/nissan/nv-cargo-nv1500/2-800-oemexteriorfront1300-93056.JPG"
+    }
+  },
+  {
+    "make"  : "Nissan",
+    "model" : "NV Cargo NV2500 HD",
+    "price" : 30790,
+    "trim"  : "S V6 3dr Rear-wheel Drive Cargo Van",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/nissan/nv-cargo-nv2500-hd/2-800-oemexteriorfront1300-93058.JPG"
+    }
+  },
+  {
+    "make"  : "Nissan",
+    "model" : "NV Cargo NV3500 HD",
+    "price" : 34090,
+    "trim"  : "S V8 3dr Rear-wheel Drive Cargo Van",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/nissan/nv-cargo-nv3500-hd/2-800-oemexteriorfront1300-93068.JPG"
+    }
+  },
+  {
+    "make"  : "Nissan",
+    "model" : "NV Passenger NV3500 HD",
+    "price" : 36110,
+    "trim"  : "S V6 3dr Rear-wheel Drive Passenger Van",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/nissan/nv-passenger-nv3500-hd/2-800-oemexterior3/4frontwhitebackground1311-93074.JPG"
+    }
+  },
+  {
+    "make"  : "Nissan",
+    "model" : "NV200",
+    "price" : 22830,
+    "trim"  : "S 4dr Compact Cargo Van",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/nissan/nv200/2-800-oemexterior3/4frontwhitebackground1311-93077.JPG"
+    }
+  },
+  {
+    "make"  : "Nissan",
+    "model" : "Pathfinder",
+    "price" : 31680,
+    "trim"  : "S 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/nissan/pathfinder/2-800-oemexteriorfront1300-92824.JPG"
+    }
+  },
+  {
+    "make"  : "Nissan",
+    "model" : "Rogue",
+    "price" : 25300,
+    "trim"  : "S 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/nissan/rogue/2-800-oemexteriorfront1300-92313.JPG"
+    }
+  },
+  {
+    "make"  : "Nissan",
+    "model" : "Rogue Sport",
+    "price" : 23240,
+    "trim"  : "S 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/nissan/rogue-sport/2-800-oemexteriorfront1300-93581.JPG"
+    }
+  },
+  {
+    "make"  : "Nissan",
+    "model" : "Sentra",
+    "price" : 19090,
+    "trim"  : "S 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/nissan/sentra/2-800-oemexteriorfront1300-93716.JPG"
+    }
+  },
+  {
+    "make"  : "Nissan",
+    "model" : "Titan",
+    "price" : 38890,
+    "trim"  : "S 4dr 4x2 Crew Cab 5.5 ft. box 139.8 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/nissan/titan/2-800-oemexteriorfront1300-93724.JPG"
+    }
+  },
+  {
+    "make"  : "Nissan",
+    "model" : "Versa",
+    "price" : 14730,
+    "trim"  : "1.6 S 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/nissan/versa/2-800-oemexteriorfront1300-92307.JPG"
+    }
+  },
+  {
+    "make"  : "Porsche",
+    "model" : "718 Boxster",
+    "price" : 59600,
+    "trim"  : "Base 2dr Rear-wheel Drive Convertible",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/porsche/718-boxster/2-800-oemexterior3/4frontrightfacing1308-93738.JPG"
+    }
+  },
+  {
+    "make"  : "Porsche",
+    "model" : "718 Cayman",
+    "price" : 99200,
+    "trim"  : "GT4 2dr Rear-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/porsche/718-cayman/2-800-oemexteriorfront1300-92554.JPG"
+    }
+  },
+  {
+    "make"  : "Porsche",
+    "model" : "718 Spyder",
+    "price" : 96300,
+    "trim"  : "Base 2dr Rear-wheel Drive Convertible",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/porsche/718-spyder/2-800-oemexteriorfront1300-92515.JPG"
+    }
+  },
+  {
+    "make"  : "Porsche",
+    "model" : "911",
+    "price" : 113300,
+    "trim"  : "Carrera S 2dr Rear-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/porsche/911/2-800-oemexteriorfront1300-90376.jpg"
+    }
+  },
+  {
+    "make"  : "Porsche",
+    "model" : "Cayenne",
+    "price" : 66800,
+    "trim"  : "Base 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/porsche/cayenne/2-800-oemexteriorfront1300-92508.JPG"
+    }
+  },
+  {
+    "make"  : "Porsche",
+    "model" : "Cayenne Coupe",
+    "price" : 75300,
+    "trim"  : "Base 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/porsche/cayenne-coupe/2-800-oemexteriorfront1300-92319.JPG"
+    }
+  },
+  {
+    "make"  : "Porsche",
+    "model" : "Cayenne E-Hybrid",
+    "price" : 81100,
+    "trim"  : "Base 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/porsche/cayenne-e-hybrid/2-800-oemexteriorfront1300-92832.JPG"
+    }
+  },
+  {
+    "make"  : "Porsche",
+    "model" : "Cayenne E-Hybrid Coupe",
+    "price" : 86400,
+    "trim"  : "Base 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/porsche/cayenne-e-hybrid-coupe/2-800-threequartersview101-93588.JPG"
+    }
+  },
+  {
+    "make"  : "Porsche",
+    "model" : "Macan",
+    "price" : 50900,
+    "trim"  : "Base 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/porsche/macan/2-800-oemexteriorfront1300-93081.JPG"
+    }
+  },
+  {
+    "make"  : "Porsche",
+    "model" : "Panamera",
+    "price" : 87200,
+    "trim"  : "Base 4dr Rear-wheel Drive Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/porsche/panamera/2-800-oemexteriorfront1300-93423.JPG"
+    }
+  },
+  {
+    "make"  : "Porsche",
+    "model" : "Panamera e-Hybrid",
+    "price" : 103800,
+    "trim"  : "4 4dr All-wheel Drive Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/porsche/panamera-e-hybrid/2-800-oemexteriorfront1300-93433.JPG"
+    }
+  },
+  {
+    "make"  : "Porsche",
+    "model" : "Panamera E-Hybrid Sport Turismo",
+    "price" : 107800,
+    "trim"  : "4 4dr All-wheel Drive Wagon",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/porsche/panamera-e-hybrid-sport-turismo/2-800-threequartersview101-93442.JPG"
+    }
+  },
+  {
+    "make"  : "Porsche",
+    "model" : "Panamera Sport Turismo",
+    "price" : 98000,
+    "trim"  : "4 4dr All-wheel Drive Wagon",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/porsche/panamera-sport-turismo/2-800-oemexteriorfront1300-93438.JPG"
+    }
+  },
+  {
+    "make"  : "Porsche",
+    "model" : "Taycan",
+    "price" : 150900,
+    "trim"  : "Turbo 4dr All-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/porsche/taycan/2-800-oemexteriorfront1300-93079.JPG"
+    }
+  },
+  {
+    "make"  : "RAM",
+    "model" : "1500",
+    "price" : 34095,
+    "trim"  : "HFE 4x2 Quad Cab 140.5 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ram/1500/2-800-oemexteriorfront1300-91594.JPG"
+    }
+  },
+  {
+    "make"  : "RAM",
+    "model" : "1500 Classic",
+    "price" : 27945,
+    "trim"  : "Tradesman 4x2 Regular Cab 120 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ram/1500-classic/2-800-oemexteriorfront1300-93445.JPG"
+    }
+  },
+  {
+    "make"  : "RAM",
+    "model" : "2500",
+    "price" : 33745,
+    "trim"  : "Tradesman 4x2 Regular Cab 140.5 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ram/2500/2-800-oemexteriorfront1300-93084.JPG"
+    }
+  },
+  {
+    "make"  : "RAM",
+    "model" : "3500",
+    "price" : 35195,
+    "trim"  : "Tradesman 4x2 Regular Cab 140 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ram/3500/2-800-oemexteriorfront1300-93113.JPG"
+    }
+  },
+  {
+    "make"  : "RAM",
+    "model" : "ProMaster 1500",
+    "price" : 31145,
+    "trim"  : "Low Roof Cargo Van 118 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ram/promaster-1500/2-800-threequartersview101-91624.JPG"
+    }
+  },
+  {
+    "make"  : "RAM",
+    "model" : "ProMaster 2500",
+    "price" : 34695,
+    "trim"  : "High Roof Cargo Van 136 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ram/promaster-2500/2-800-threequartersview101-91627.JPG"
+    }
+  },
+  {
+    "make"  : "RAM",
+    "model" : "ProMaster 2500 Window Van",
+    "price" : 36995,
+    "trim"  : "High Roof Cargo Van 159 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ram/promaster-2500-window-van/2-800-threequartersview101-91258.JPG"
+    }
+  },
+  {
+    "make"  : "RAM",
+    "model" : "ProMaster 3500",
+    "price" : 37645,
+    "trim"  : "High Roof Cargo Van 159 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ram/promaster-3500/2-800-threequartersview101-91630.JPG"
+    }
+  },
+  {
+    "make"  : "RAM",
+    "model" : "ProMaster 3500 Window Van",
+    "price" : 40845,
+    "trim"  : "High Roof Extended Cargo Van 159 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ram/promaster-3500-window-van/2-800-threequartersview101-91259.JPG"
+    }
+  },
+  {
+    "make"  : "RAM",
+    "model" : "ProMaster City",
+    "price" : 24430,
+    "trim"  : "Tradesman Cargo Van",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/ram/promaster-city/2-800-oemexterior3/4frontrightfacing1308-91634.JPG"
+    }
+  },
+  {
+    "make"  : "Rolls-Royce",
+    "model" : "Cullinan",
+    "price" : 325000,
+    "trim"  : "Base Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/rolls-royce/cullinan/2-800-oemexteriorfront1300-93596.JPG"
+    }
+  },
+  {
+    "make"  : "Rolls-Royce",
+    "model" : "Dawn",
+    "price" : 346300,
+    "trim"  : "Base 2dr Convertible",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/rolls-royce/dawn/2-800-oemexterior3/4frontwhitebackground1311-93595.JPG"
+    }
+  },
+  {
+    "make"  : "Rolls-Royce",
+    "model" : "Ghost",
+    "price" : 311900,
+    "trim"  : "Base 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/rolls-royce/ghost/2-800-oemexteriorfront1300-93593.JPG"
+    }
+  },
+  {
+    "make"  : "Rolls-Royce",
+    "model" : "Phantom",
+    "price" : 450000,
+    "trim"  : "Base Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/rolls-royce/phantom/2-800-oemexteriorfront1300-93591.JPG"
+    }
+  },
+  {
+    "make"  : "Rolls-Royce",
+    "model" : "Wraith",
+    "price" : 320500,
+    "trim"  : "Base 2dr Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/rolls-royce/wraith/2-800-oemexteriorfront1300-93528.JPG"
+    }
+  },
+  {
+    "make"  : "Subaru",
+    "model" : "Ascent",
+    "price" : 31995,
+    "trim"  : "Base All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/subaru/ascent/2-800-oemexterior3/4frontrightfacing1308-90844.jpg"
+    }
+  },
+  {
+    "make"  : "Subaru",
+    "model" : "BRZ",
+    "price" : 28845,
+    "trim"  : "Limited 2dr Rear-wheel Drive Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/subaru/brz/2-800-oemexteriorfront1300-92565.JPG"
+    }
+  },
+  {
+    "make"  : "Subaru",
+    "model" : "Crosstrek",
+    "price" : 22145,
+    "trim"  : "Base 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/subaru/crosstrek/2-800-oemexterior3/4frontwhitebackground1311-93243.JPG"
+    }
+  },
+  {
+    "make"  : "Subaru",
+    "model" : "Crosstrek Hybrid",
+    "price" : 35145,
+    "trim"  : "Base 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/subaru/crosstrek-hybrid/2-800-oemexteriorfront1300-93248.JPG"
+    }
+  },
+  {
+    "make"  : "Subaru",
+    "model" : "Forester",
+    "price" : 24495,
+    "trim"  : "Base 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/subaru/forester/2-800-oemexteriorfront1300-92833.JPG"
+    }
+  },
+  {
+    "make"  : "Subaru",
+    "model" : "Impreza",
+    "price" : 19195,
+    "trim"  : "Base 4dr All-wheel Drive Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/subaru/impreza/2-800-oemexteriorfront1300-93141.JPG"
+    }
+  },
+  {
+    "make"  : "Subaru",
+    "model" : "Legacy",
+    "price" : 22745,
+    "trim"  : "Base 4dr All-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/subaru/legacy/2-800-oemexteriorfront1300-92322.JPG"
+    }
+  },
+  {
+    "make"  : "Subaru",
+    "model" : "Outback",
+    "price" : 26645,
+    "trim"  : "Base 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/subaru/outback/2-800-oemexteriorfront1300-92328.JPG"
+    }
+  },
+  {
+    "make"  : "Subaru",
+    "model" : "WRX",
+    "price" : 29795,
+    "trim"  : "Premium 4dr All-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/subaru/wrx/2-800-oemexterior3/4frontrightfacing1308-92486.JPG"
+    }
+  },
+  {
+    "make"  : "Subaru",
+    "model" : "WRX STI",
+    "price" : 41695,
+    "trim"  : "Limited w/Lip 4dr All-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/subaru/wrx-sti/2-800-oemexteriorfront1300-92488.JPG"
+    }
+  },
+  {
+    "make"  : "Tesla",
+    "model" : "Model 3",
+    "price" : 39990,
+    "trim"  : "Standard Range Plus 4dr Rear-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/tesla/model-3/2-800-oemexteriorfront1300-93747.JPG"
+    }
+  },
+  {
+    "make"  : "Tesla",
+    "model" : "Model S",
+    "price" : 79990,
+    "trim"  : "Long Range 4dr All-wheel Drive Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/tesla/model-s/2-800-oemexterior3/4frontrightfacing1308-93745.JPG"
+    }
+  },
+  {
+    "make"  : "Tesla",
+    "model" : "Model X",
+    "price" : 84990,
+    "trim"  : "Long Range 4dr Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/tesla/model-x/2-800-oemexteriorfront1300-93750.JPG"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "4Runner",
+    "price" : 36120,
+    "trim"  : "SR5 4dr 4x2",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/4runner/2-800-oemexteriorfront1300-92362.JPG"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "86",
+    "price" : 27060,
+    "trim"  : "Base 2dr Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/86/2-800-oemexteriorfront1300-92351.JPG"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "Avalon",
+    "price" : 35875,
+    "trim"  : "XLE 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/avalon/2-800-oemexteriorfront1300-92335.JPG"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "Avalon Hybrid",
+    "price" : 37000,
+    "trim"  : "XLE 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/avalon-hybrid/2-800-oemexteriorfront1300-92348.JPG"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "C-HR",
+    "price" : 21295,
+    "trim"  : "LE 4dr Front-wheel Drive Sport Utility",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/c-hr/2-800-oemexterior3/4frontwhitebackground1311-93167.JPG"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "Camry",
+    "price" : 24425,
+    "trim"  : "L 4dr Front-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/camry/2-800-oemexterior3/4frontrightfacing1308-92838.JPG"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "Camry Hybrid",
+    "price" : 28430,
+    "trim"  : "LE 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/camry-hybrid/2-800-oemexterior3/4frontrightfacing1308-92847.JPG"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "Corolla",
+    "price" : 19600,
+    "trim"  : "L 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/corolla/2-800-oemexteriorfront1300-90451.jpg"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "Corolla Hatchback",
+    "price" : 20290,
+    "trim"  : "SE 5dr",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/corolla-hatchback/2-800-oemexteriorfront1300-92850.JPG"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "Corolla Hybrid",
+    "price" : 23100,
+    "trim"  : "LE 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/corolla-hybrid/2-800-oemexteriorfront1300-90457.jpg"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "Highlander",
+    "price" : 34600,
+    "trim"  : "L 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/highlander/2-800-oemexteriorfront1300-93597.JPG"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "Highlander Hybrid",
+    "price" : 38200,
+    "trim"  : "LE 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/highlander-hybrid/2-800-oemexteriorfront1300-93667.JPG"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "Land Cruiser",
+    "price" : 85415,
+    "trim"  : "Base 4dr 4x4",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/land-cruiser/2-800-threequartersview101-92374.JPG"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "Prius",
+    "price" : 24325,
+    "trim"  : "L 5dr Front-wheel Drive Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/prius/2-800-oemexteriorfront1300-92340.JPG"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "Prius Prime",
+    "price" : 27900,
+    "trim"  : "LE 5dr Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/prius-prime/2-800-oemexterior3/4frontwhitebackground1311-90715.jpg"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "RAV4",
+    "price" : 25950,
+    "trim"  : "LE 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/rav4/2-800-oemexteriorfront1300-93153.JPG"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "RAV4 Hybrid",
+    "price" : 28350,
+    "trim"  : "LE 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/rav4-hybrid/2-800-oemexterior3/4frontrightfacing1308-93163.JPG"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "Sequoia",
+    "price" : 49980,
+    "trim"  : "SR5 4dr 4x2",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/sequoia/2-800-oemexteriorfront1300-92376.JPG"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "Sienna",
+    "price" : 31640,
+    "trim"  : "L 7 Passenger 4dr Front-wheel Drive Passenger Van",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/sienna/2-800-oemexteriorfront1300-90626.jpg"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "Supra",
+    "price" : 49990,
+    "trim"  : "3.0 3dr Coupe",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/supra/2-800-oemexteriorfront1300-91638.JPG"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "Tacoma",
+    "price" : 26050,
+    "trim"  : "SR 4x2 Access Cab 127.4 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/tacoma/2-800-oemexteriorfront1300-92855.JPG"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "Tundra",
+    "price" : 33575,
+    "trim"  : "SR 5.7L V8 4x2 Double Cab 6.6 ft. box 145.7 in. WB",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/tundra/2-800-oemexterior3/4frontwhitebackground1311-92385.JPG"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "Yaris",
+    "price" : 17750,
+    "trim"  : "LE 5dr Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/yaris/2-800-oemexteriorprofilerightfacing1310-92346.JPG"
+    }
+  },
+  {
+    "make"  : "Toyota",
+    "model" : "Yaris Sedan",
+    "price" : 15650,
+    "trim"  : "L 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/toyota/yaris-sedan/2-800-oemexteriorfront1300-92357.JPG"
+    }
+  },
+  {
+    "make"  : "Volkswagen",
+    "model" : "Atlas",
+    "price" : 31545,
+    "trim"  : "2.0T S 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volkswagen/atlas/2-800-oemexteriorfront1300-93266.JPG"
+    }
+  },
+  {
+    "make"  : "Volkswagen",
+    "model" : "Atlas Cross Sport",
+    "price" : 30545,
+    "trim"  : "2.0T S 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volkswagen/atlas-cross-sport/2-800-oemexteriorfront1300-93752.JPG"
+    }
+  },
+  {
+    "make"  : "Volkswagen",
+    "model" : "Golf",
+    "price" : 23195,
+    "trim"  : "1.4T TSI 4dr Front-wheel Drive Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volkswagen/golf/2-800-oemexterior3/4frontrightfacing1308-93249.JPG"
+    }
+  },
+  {
+    "make"  : "Volkswagen",
+    "model" : "Golf GTI",
+    "price" : 28595,
+    "trim"  : "2.0T S 4dr Hatchback",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volkswagen/golf-gti/2-800-oemexteriorfront1300-93258.JPG"
+    }
+  },
+  {
+    "make"  : "Volkswagen",
+    "model" : "Jetta",
+    "price" : 18895,
+    "trim"  : "1.4T S 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volkswagen/jetta/2-800-oemexteriorfront1300-93251.JPG"
+    }
+  },
+  {
+    "make"  : "Volkswagen",
+    "model" : "Jetta GLI",
+    "price" : 26245,
+    "trim"  : "2.0T S 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volkswagen/jetta-gli/2-800-oemexteriorfront1300-93262.JPG"
+    }
+  },
+  {
+    "make"  : "Volkswagen",
+    "model" : "Passat",
+    "price" : 22995,
+    "trim"  : "2.0T S 4dr Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volkswagen/passat/2-800-oemexterior3/4frontrightfacing1308-93465.JPG"
+    }
+  },
+  {
+    "make"  : "Volkswagen",
+    "model" : "Tiguan",
+    "price" : 24945,
+    "trim"  : "2.0T S 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volkswagen/tiguan/2-800-oemexteriorfront1300-93171.JPG"
+    }
+  },
+  {
+    "make"  : "Volvo",
+    "model" : "S60",
+    "price" : 36050,
+    "trim"  : "T5 Momentum 4dr Front-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volvo/s60/2-800-oemexteriorfront1300-91648.JPG"
+    }
+  },
+  {
+    "make"  : "Volvo",
+    "model" : "S60 Hybrid",
+    "price" : 55400,
+    "trim"  : "T8 R-Design 4dr All-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volvo/s60-hybrid/2-800-oemexterior3/4frontrightfacing1308-92887.JPG"
+    }
+  },
+  {
+    "make"  : "Volvo",
+    "model" : "S90",
+    "price" : 50550,
+    "trim"  : "T6 Momentum 4dr All-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volvo/s90/2-800-oemexteriorfront1300-91645.JPG"
+    }
+  },
+  {
+    "make"  : "Volvo",
+    "model" : "S90 Hybrid",
+    "price" : 63200,
+    "trim"  : "T8 R-Design 4dr All-wheel Drive Sedan",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volvo/s90-hybrid/2-800-oemexteriorfront1300-92509.JPG"
+    }
+  },
+  {
+    "make"  : "Volvo",
+    "model" : "V60",
+    "price" : 39650,
+    "trim"  : "T5 Momentum 4dr Front-wheel Drive Wagon",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volvo/v60/2-800-oemexteriorfront1300-91654.JPG"
+    }
+  },
+  {
+    "make"  : "Volvo",
+    "model" : "V60 Cross Country",
+    "price" : 45100,
+    "trim"  : "T5 4dr All-wheel Drive Wagon",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volvo/v60-cross-country/2-800-oemexteriorfront1300-91657.JPG"
+    }
+  },
+  {
+    "make"  : "Volvo",
+    "model" : "V60 Hybrid",
+    "price" : 67300,
+    "trim"  : "T8 Polestar 4dr All-wheel Drive Wagon",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volvo/v60-hybrid/2-800-oemexteriorfront1300-93170.JPG"
+    }
+  },
+  {
+    "make"  : "Volvo",
+    "model" : "V90",
+    "price" : 51450,
+    "trim"  : "T5 R-Design 4dr Front-wheel Drive Wagon",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volvo/v90/2-800-oemexteriorfront1300-91641.JPG"
+    }
+  },
+  {
+    "make"  : "Volvo",
+    "model" : "V90 Cross Country",
+    "price" : 54550,
+    "trim"  : "T6 4dr All-wheel Drive Wagon",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volvo/v90-cross-country/2-800-oemexteriorfront1300-91658.JPG"
+    }
+  },
+  {
+    "make"  : "Volvo",
+    "model" : "XC40",
+    "price" : 33700,
+    "trim"  : "T4 Momentum 4dr Front-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volvo/xc40/2-800-oemexteriorfront1300-91677.JPG"
+    }
+  },
+  {
+    "make"  : "Volvo",
+    "model" : "XC60",
+    "price" : 42450,
+    "trim"  : "T5 Momentum 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volvo/xc60/2-800-oemexteriorfront1300-91668.JPG"
+    }
+  },
+  {
+    "make"  : "Volvo",
+    "model" : "XC60 Hybrid",
+    "price" : 53950,
+    "trim"  : "T8 Momentum 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volvo/xc60-hybrid/2-800-threequartersview101-92890.JPG"
+    }
+  },
+  {
+    "make"  : "Volvo",
+    "model" : "XC90",
+    "price" : 50850,
+    "trim"  : "T5 Momentum 7 Passenger 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volvo/xc90/2-800-oemexteriorfront1300-91659.JPG"
+    }
+  },
+  {
+    "make"  : "Volvo",
+    "model" : "XC90 Hybrid",
+    "price" : 67000,
+    "trim"  : "T8 Momentum 7 Passenger 4dr All-wheel Drive",
+    "images": {
+      "showcase": "http://img.autobytel.com/2020/volvo/xc90-hybrid/2-800-oemexteriorfront1300-92479.JPG"
+    }
+  }
+]

@@ -17,7 +17,6 @@ const {s3root} =  require('dotenv').config({path:path.resolve(process.cwd(),'./g
 //     }
 // }
 
-
 const carsData = {};
 
 (async function(){

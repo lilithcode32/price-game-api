@@ -1,0 +1,2682 @@
+[
+  {
+    "make" : "Acura",
+    "model": "ilx",
+    "url"  : "https://www.autobytel.com/acura/ilx/2020/configurator/"
+  },
+  {
+    "make" : "Acura",
+    "model": "mdx",
+    "url"  : "https://www.autobytel.com/acura/mdx/2020/configurator/"
+  },
+  {
+    "make" : "Acura",
+    "model": "mdx-sport-hybrid",
+    "url"  : "https://www.autobytel.com/acura/mdx-sport-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Acura",
+    "model": "nsx",
+    "url"  : "https://www.autobytel.com/acura/nsx/2020/configurator/"
+  },
+  {
+    "make" : "Acura",
+    "model": "rdx",
+    "url"  : "https://www.autobytel.com/acura/rdx/2020/configurator/"
+  },
+  {
+    "make" : "Acura",
+    "model": "rlx",
+    "url"  : "https://www.autobytel.com/acura/rlx/2020/configurator/"
+  },
+  {
+    "make" : "Acura",
+    "model": "rlx-sport-hybrid",
+    "url"  : "https://www.autobytel.com/acura/rlx-sport-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Acura",
+    "model": "tlx",
+    "url"  : "https://www.autobytel.com/acura/tlx/2020/configurator/"
+  },
+  {
+    "make" : "Alfa Romeo",
+    "model": "4c-spider",
+    "url"  : "https://www.autobytel.com/alfa-romeo/4c-spider/2020/configurator/"
+  },
+  {
+    "make" : "Alfa Romeo",
+    "model": "giulia",
+    "url"  : "https://www.autobytel.com/alfa-romeo/giulia/2020/configurator/"
+  },
+  {
+    "make" : "Alfa Romeo",
+    "model": "stelvio",
+    "url"  : "https://www.autobytel.com/alfa-romeo/stelvio/2020/configurator/"
+  },
+  {
+    "make" : "Aston Martin",
+    "model": "db11",
+    "url"  : "https://www.autobytel.com/aston-martin/db11/2020/configurator/"
+  },
+  {
+    "make" : "Aston Martin",
+    "model": "dbs",
+    "url"  : "https://www.autobytel.com/aston-martin/dbs/2020/configurator/"
+  },
+  {
+    "make" : "Aston Martin",
+    "model": "vanquish",
+    "url"  : "https://www.autobytel.com/aston-martin/vanquish/2020/configurator/"
+  },
+  {
+    "make" : "Aston Martin",
+    "model": "vantage",
+    "url"  : "https://www.autobytel.com/aston-martin/vantage/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "a3",
+    "url"  : "https://www.autobytel.com/audi/a3/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "a4",
+    "url"  : "https://www.autobytel.com/audi/a4/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "a4-allroad",
+    "url"  : "https://www.autobytel.com/audi/a4-allroad/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "a5",
+    "url"  : "https://www.autobytel.com/audi/a5/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "a6",
+    "url"  : "https://www.autobytel.com/audi/a6/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "a6-allroad",
+    "url"  : "https://www.autobytel.com/audi/a6-allroad/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "a7",
+    "url"  : "https://www.autobytel.com/audi/a7/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "a8",
+    "url"  : "https://www.autobytel.com/audi/a8/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "a8-e",
+    "url"  : "https://www.autobytel.com/audi/a8-e/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "e-tron",
+    "url"  : "https://www.autobytel.com/audi/e-tron/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "q3",
+    "url"  : "https://www.autobytel.com/audi/q3/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "q5",
+    "url"  : "https://www.autobytel.com/audi/q5/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "q5-e",
+    "url"  : "https://www.autobytel.com/audi/q5-e/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "q7",
+    "url"  : "https://www.autobytel.com/audi/q7/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "q8",
+    "url"  : "https://www.autobytel.com/audi/q8/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "r8",
+    "url"  : "https://www.autobytel.com/audi/r8/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "rs-3",
+    "url"  : "https://www.autobytel.com/audi/rs-3/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "rs-5",
+    "url"  : "https://www.autobytel.com/audi/rs-5/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "s3",
+    "url"  : "https://www.autobytel.com/audi/s3/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "s4",
+    "url"  : "https://www.autobytel.com/audi/s4/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "s5",
+    "url"  : "https://www.autobytel.com/audi/s5/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "s6",
+    "url"  : "https://www.autobytel.com/audi/s6/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "s7",
+    "url"  : "https://www.autobytel.com/audi/s7/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "s8",
+    "url"  : "https://www.autobytel.com/audi/s8/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "sq5",
+    "url"  : "https://www.autobytel.com/audi/sq5/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "tt",
+    "url"  : "https://www.autobytel.com/audi/tt/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "tt-rs",
+    "url"  : "https://www.autobytel.com/audi/tt-rs/2020/configurator/"
+  },
+  {
+    "make" : "Audi",
+    "model": "tts",
+    "url"  : "https://www.autobytel.com/audi/tts/2020/configurator/"
+  },
+  {
+    "make" : "Bentley",
+    "model": "bentayga",
+    "url"  : "https://www.autobytel.com/bentley/bentayga/2020/configurator/"
+  },
+  {
+    "make" : "Bentley",
+    "model": "bentayga-hybrid",
+    "url"  : "https://www.autobytel.com/bentley/bentayga-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Bentley",
+    "model": "continental-gt",
+    "url"  : "https://www.autobytel.com/bentley/continental-gt/2020/configurator/"
+  },
+  {
+    "make" : "Bentley",
+    "model": "flying-spur",
+    "url"  : "https://www.autobytel.com/bentley/flying-spur/2020/configurator/"
+  },
+  {
+    "make" : "Bentley",
+    "model": "mulsanne",
+    "url"  : "https://www.autobytel.com/bentley/mulsanne/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "228-gran-coupe",
+    "url"  : "https://www.autobytel.com/bmw/228-gran-coupe/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "230",
+    "url"  : "https://www.autobytel.com/bmw/230/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "330",
+    "url"  : "https://www.autobytel.com/bmw/330/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "330-gran-turismo",
+    "url"  : "https://www.autobytel.com/bmw/330-gran-turismo/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "340-gran-turismo",
+    "url"  : "https://www.autobytel.com/bmw/340-gran-turismo/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "430",
+    "url"  : "https://www.autobytel.com/bmw/430/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "430-gran-coupe",
+    "url"  : "https://www.autobytel.com/bmw/430-gran-coupe/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "440",
+    "url"  : "https://www.autobytel.com/bmw/440/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "440-gran-coupe",
+    "url"  : "https://www.autobytel.com/bmw/440-gran-coupe/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "530",
+    "url"  : "https://www.autobytel.com/bmw/530/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "530e",
+    "url"  : "https://www.autobytel.com/bmw/530e/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "540",
+    "url"  : "https://www.autobytel.com/bmw/540/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "640-gran-coupe",
+    "url"  : "https://www.autobytel.com/bmw/640-gran-coupe/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "640-gran-turismo",
+    "url"  : "https://www.autobytel.com/bmw/640-gran-turismo/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "650-gran-coupe",
+    "url"  : "https://www.autobytel.com/bmw/650-gran-coupe/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "740",
+    "url"  : "https://www.autobytel.com/bmw/740/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "740e",
+    "url"  : "https://www.autobytel.com/bmw/740e/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "745e",
+    "url"  : "https://www.autobytel.com/bmw/745e/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "750",
+    "url"  : "https://www.autobytel.com/bmw/750/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "840",
+    "url"  : "https://www.autobytel.com/bmw/840/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "840-gran-coupe",
+    "url"  : "https://www.autobytel.com/bmw/840-gran-coupe/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "alpina-b6-gran-coupe",
+    "url"  : "https://www.autobytel.com/bmw/alpina-b6-gran-coupe/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "alpina-b7",
+    "url"  : "https://www.autobytel.com/bmw/alpina-b7/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "i3",
+    "url"  : "https://www.autobytel.com/bmw/i3/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "i8",
+    "url"  : "https://www.autobytel.com/bmw/i8/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "m2",
+    "url"  : "https://www.autobytel.com/bmw/m2/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "m235-gran-coupe",
+    "url"  : "https://www.autobytel.com/bmw/m235-gran-coupe/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "m240",
+    "url"  : "https://www.autobytel.com/bmw/m240/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "m340",
+    "url"  : "https://www.autobytel.com/bmw/m340/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "m4",
+    "url"  : "https://www.autobytel.com/bmw/m4/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "m5",
+    "url"  : "https://www.autobytel.com/bmw/m5/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "m550",
+    "url"  : "https://www.autobytel.com/bmw/m550/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "m6-gran-coupe",
+    "url"  : "https://www.autobytel.com/bmw/m6-gran-coupe/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "m760",
+    "url"  : "https://www.autobytel.com/bmw/m760/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "m8",
+    "url"  : "https://www.autobytel.com/bmw/m8/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "m8-gran-coupe",
+    "url"  : "https://www.autobytel.com/bmw/m8-gran-coupe/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "m850",
+    "url"  : "https://www.autobytel.com/bmw/m850/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "m850-gran-coupe",
+    "url"  : "https://www.autobytel.com/bmw/m850-gran-coupe/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "x1",
+    "url"  : "https://www.autobytel.com/bmw/x1/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "x2",
+    "url"  : "https://www.autobytel.com/bmw/x2/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "x3",
+    "url"  : "https://www.autobytel.com/bmw/x3/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "x3-m",
+    "url"  : "https://www.autobytel.com/bmw/x3-m/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "x3-phev",
+    "url"  : "https://www.autobytel.com/bmw/x3-phev/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "x4",
+    "url"  : "https://www.autobytel.com/bmw/x4/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "x4-m",
+    "url"  : "https://www.autobytel.com/bmw/x4-m/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "x5",
+    "url"  : "https://www.autobytel.com/bmw/x5/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "x5-m",
+    "url"  : "https://www.autobytel.com/bmw/x5-m/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "x6",
+    "url"  : "https://www.autobytel.com/bmw/x6/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "x6-m",
+    "url"  : "https://www.autobytel.com/bmw/x6-m/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "x7",
+    "url"  : "https://www.autobytel.com/bmw/x7/2020/configurator/"
+  },
+  {
+    "make" : "BMW",
+    "model": "z4",
+    "url"  : "https://www.autobytel.com/bmw/z4/2020/configurator/"
+  },
+  {
+    "make" : "Buick",
+    "model": "cascada",
+    "url"  : "https://www.autobytel.com/buick/cascada/2020/configurator/"
+  },
+  {
+    "make" : "Buick",
+    "model": "enclave",
+    "url"  : "https://www.autobytel.com/buick/enclave/2020/configurator/"
+  },
+  {
+    "make" : "Buick",
+    "model": "encore",
+    "url"  : "https://www.autobytel.com/buick/encore/2020/configurator/"
+  },
+  {
+    "make" : "Buick",
+    "model": "encore-gx",
+    "url"  : "https://www.autobytel.com/buick/encore-gx/2020/configurator/"
+  },
+  {
+    "make" : "Buick",
+    "model": "envision",
+    "url"  : "https://www.autobytel.com/buick/envision/2020/configurator/"
+  },
+  {
+    "make" : "Buick",
+    "model": "lacrosse",
+    "url"  : "https://www.autobytel.com/buick/lacrosse/2020/configurator/"
+  },
+  {
+    "make" : "Buick",
+    "model": "regal-sportback",
+    "url"  : "https://www.autobytel.com/buick/regal-sportback/2020/configurator/"
+  },
+  {
+    "make" : "Buick",
+    "model": "regal-tourx",
+    "url"  : "https://www.autobytel.com/buick/regal-tourx/2020/configurator/"
+  },
+  {
+    "make" : "Cadillac",
+    "model": "ats",
+    "url"  : "https://www.autobytel.com/cadillac/ats/2020/configurator/"
+  },
+  {
+    "make" : "Cadillac",
+    "model": "ats-v",
+    "url"  : "https://www.autobytel.com/cadillac/ats-v/2020/configurator/"
+  },
+  {
+    "make" : "Cadillac",
+    "model": "ct4",
+    "url"  : "https://www.autobytel.com/cadillac/ct4/2020/configurator/"
+  },
+  {
+    "make" : "Cadillac",
+    "model": "ct5",
+    "url"  : "https://www.autobytel.com/cadillac/ct5/2020/configurator/"
+  },
+  {
+    "make" : "Cadillac",
+    "model": "ct6",
+    "url"  : "https://www.autobytel.com/cadillac/ct6/2020/configurator/"
+  },
+  {
+    "make" : "Cadillac",
+    "model": "ct6-v",
+    "url"  : "https://www.autobytel.com/cadillac/ct6-v/2020/configurator/"
+  },
+  {
+    "make" : "Cadillac",
+    "model": "cts",
+    "url"  : "https://www.autobytel.com/cadillac/cts/2020/configurator/"
+  },
+  {
+    "make" : "Cadillac",
+    "model": "cts-v",
+    "url"  : "https://www.autobytel.com/cadillac/cts-v/2020/configurator/"
+  },
+  {
+    "make" : "Cadillac",
+    "model": "escalade",
+    "url"  : "https://www.autobytel.com/cadillac/escalade/2020/configurator/"
+  },
+  {
+    "make" : "Cadillac",
+    "model": "escalade-esv",
+    "url"  : "https://www.autobytel.com/cadillac/escalade-esv/2020/configurator/"
+  },
+  {
+    "make" : "Cadillac",
+    "model": "xt4",
+    "url"  : "https://www.autobytel.com/cadillac/xt4/2020/configurator/"
+  },
+  {
+    "make" : "Cadillac",
+    "model": "xt5",
+    "url"  : "https://www.autobytel.com/cadillac/xt5/2020/configurator/"
+  },
+  {
+    "make" : "Cadillac",
+    "model": "xt6",
+    "url"  : "https://www.autobytel.com/cadillac/xt6/2020/configurator/"
+  },
+  {
+    "make" : "Cadillac",
+    "model": "xts",
+    "url"  : "https://www.autobytel.com/cadillac/xts/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "blazer",
+    "url"  : "https://www.autobytel.com/chevrolet/blazer/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "bolt-ev",
+    "url"  : "https://www.autobytel.com/chevrolet/bolt-ev/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "camaro",
+    "url"  : "https://www.autobytel.com/chevrolet/camaro/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "colorado",
+    "url"  : "https://www.autobytel.com/chevrolet/colorado/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "corvette",
+    "url"  : "https://www.autobytel.com/chevrolet/corvette/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "cruze",
+    "url"  : "https://www.autobytel.com/chevrolet/cruze/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "equinox",
+    "url"  : "https://www.autobytel.com/chevrolet/equinox/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "express-2500",
+    "url"  : "https://www.autobytel.com/chevrolet/express-2500/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "express-3500",
+    "url"  : "https://www.autobytel.com/chevrolet/express-3500/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "impala",
+    "url"  : "https://www.autobytel.com/chevrolet/impala/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "malibu",
+    "url"  : "https://www.autobytel.com/chevrolet/malibu/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "malibu-hybrid",
+    "url"  : "https://www.autobytel.com/chevrolet/malibu-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "silverado-1500",
+    "url"  : "https://www.autobytel.com/chevrolet/silverado-1500/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "silverado-1500-ld",
+    "url"  : "https://www.autobytel.com/chevrolet/silverado-1500-ld/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "silverado-2500hd",
+    "url"  : "https://www.autobytel.com/chevrolet/silverado-2500hd/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "silverado-3500hd",
+    "url"  : "https://www.autobytel.com/chevrolet/silverado-3500hd/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "sonic",
+    "url"  : "https://www.autobytel.com/chevrolet/sonic/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "spark",
+    "url"  : "https://www.autobytel.com/chevrolet/spark/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "suburban",
+    "url"  : "https://www.autobytel.com/chevrolet/suburban/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "tahoe",
+    "url"  : "https://www.autobytel.com/chevrolet/tahoe/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "trailblazer",
+    "url"  : "https://www.autobytel.com/chevrolet/trailblazer/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "traverse",
+    "url"  : "https://www.autobytel.com/chevrolet/traverse/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "trax",
+    "url"  : "https://www.autobytel.com/chevrolet/trax/2020/configurator/"
+  },
+  {
+    "make" : "Chevrolet",
+    "model": "volt",
+    "url"  : "https://www.autobytel.com/chevrolet/volt/2020/configurator/"
+  },
+  {
+    "make" : "Chrysler",
+    "model": "300",
+    "url"  : "https://www.autobytel.com/chrysler/300/2020/configurator/"
+  },
+  {
+    "make" : "Chrysler",
+    "model": "pacifica",
+    "url"  : "https://www.autobytel.com/chrysler/pacifica/2020/configurator/"
+  },
+  {
+    "make" : "Chrysler",
+    "model": "pacifica-hybrid",
+    "url"  : "https://www.autobytel.com/chrysler/pacifica-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Chrysler",
+    "model": "voyager",
+    "url"  : "https://www.autobytel.com/chrysler/voyager/2020/configurator/"
+  },
+  {
+    "make" : "Dodge",
+    "model": "challenger",
+    "url"  : "https://www.autobytel.com/dodge/challenger/2020/configurator/"
+  },
+  {
+    "make" : "Dodge",
+    "model": "charger",
+    "url"  : "https://www.autobytel.com/dodge/charger/2020/configurator/"
+  },
+  {
+    "make" : "Dodge",
+    "model": "durango",
+    "url"  : "https://www.autobytel.com/dodge/durango/2020/configurator/"
+  },
+  {
+    "make" : "Dodge",
+    "model": "grand-caravan",
+    "url"  : "https://www.autobytel.com/dodge/grand-caravan/2020/configurator/"
+  },
+  {
+    "make" : "Dodge",
+    "model": "journey",
+    "url"  : "https://www.autobytel.com/dodge/journey/2020/configurator/"
+  },
+  {
+    "make" : "Ferrari",
+    "model": "488-gtb",
+    "url"  : "https://www.autobytel.com/ferrari/488-gtb/2020/configurator/"
+  },
+  {
+    "make" : "Ferrari",
+    "model": "488-pista",
+    "url"  : "https://www.autobytel.com/ferrari/488-pista/2020/configurator/"
+  },
+  {
+    "make" : "Ferrari",
+    "model": "488-pista-spider",
+    "url"  : "https://www.autobytel.com/ferrari/488-pista-spider/2020/configurator/"
+  },
+  {
+    "make" : "Ferrari",
+    "model": "488-spider",
+    "url"  : "https://www.autobytel.com/ferrari/488-spider/2020/configurator/"
+  },
+  {
+    "make" : "Ferrari",
+    "model": "812-superfast",
+    "url"  : "https://www.autobytel.com/ferrari/812-superfast/2020/configurator/"
+  },
+  {
+    "make" : "Ferrari",
+    "model": "f8-spider",
+    "url"  : "https://www.autobytel.com/ferrari/f8-spider/2020/configurator/"
+  },
+  {
+    "make" : "Ferrari",
+    "model": "f8-tributo",
+    "url"  : "https://www.autobytel.com/ferrari/f8-tributo/2020/configurator/"
+  },
+  {
+    "make" : "Ferrari",
+    "model": "gtc4lusso",
+    "url"  : "https://www.autobytel.com/ferrari/gtc4lusso/2020/configurator/"
+  },
+  {
+    "make" : "Ferrari",
+    "model": "portofino",
+    "url"  : "https://www.autobytel.com/ferrari/portofino/2020/configurator/"
+  },
+  {
+    "make" : "Ferrari",
+    "model": "sf90-stradale",
+    "url"  : "https://www.autobytel.com/ferrari/sf90-stradale/2020/configurator/"
+  },
+  {
+    "make" : "FIAT",
+    "model": "124-spider",
+    "url"  : "https://www.autobytel.com/fiat/124-spider/2020/configurator/"
+  },
+  {
+    "make" : "FIAT",
+    "model": "500",
+    "url"  : "https://www.autobytel.com/fiat/500/2020/configurator/"
+  },
+  {
+    "make" : "FIAT",
+    "model": "500c",
+    "url"  : "https://www.autobytel.com/fiat/500c/2020/configurator/"
+  },
+  {
+    "make" : "FIAT",
+    "model": "500e",
+    "url"  : "https://www.autobytel.com/fiat/500e/2020/configurator/"
+  },
+  {
+    "make" : "FIAT",
+    "model": "500l",
+    "url"  : "https://www.autobytel.com/fiat/500l/2020/configurator/"
+  },
+  {
+    "make" : "FIAT",
+    "model": "500x",
+    "url"  : "https://www.autobytel.com/fiat/500x/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "ecosport",
+    "url"  : "https://www.autobytel.com/ford/ecosport/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "edge",
+    "url"  : "https://www.autobytel.com/ford/edge/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "escape",
+    "url"  : "https://www.autobytel.com/ford/escape/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "escape-phev",
+    "url"  : "https://www.autobytel.com/ford/escape-phev/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "expedition",
+    "url"  : "https://www.autobytel.com/ford/expedition/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "expedition-max",
+    "url"  : "https://www.autobytel.com/ford/expedition-max/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "explorer",
+    "url"  : "https://www.autobytel.com/ford/explorer/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "f-150",
+    "url"  : "https://www.autobytel.com/ford/f-150/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "f-250",
+    "url"  : "https://www.autobytel.com/ford/f-250/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "f-350",
+    "url"  : "https://www.autobytel.com/ford/f-350/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "f-450",
+    "url"  : "https://www.autobytel.com/ford/f-450/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "fiesta",
+    "url"  : "https://www.autobytel.com/ford/fiesta/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "flex",
+    "url"  : "https://www.autobytel.com/ford/flex/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "fusion",
+    "url"  : "https://www.autobytel.com/ford/fusion/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "fusion-energi",
+    "url"  : "https://www.autobytel.com/ford/fusion-energi/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "fusion-hybrid",
+    "url"  : "https://www.autobytel.com/ford/fusion-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "mustang",
+    "url"  : "https://www.autobytel.com/ford/mustang/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "ranger",
+    "url"  : "https://www.autobytel.com/ford/ranger/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "shelby-gt350",
+    "url"  : "https://www.autobytel.com/ford/shelby-gt350/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "shelby-gt500",
+    "url"  : "https://www.autobytel.com/ford/shelby-gt500/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "taurus",
+    "url"  : "https://www.autobytel.com/ford/taurus/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "transit-connect",
+    "url"  : "https://www.autobytel.com/ford/transit-connect/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "transit-150",
+    "url"  : "https://www.autobytel.com/ford/transit-150/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "transit-150-cargo",
+    "url"  : "https://www.autobytel.com/ford/transit-150-cargo/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "transit-150-crew",
+    "url"  : "https://www.autobytel.com/ford/transit-150-crew/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "transit-150-passenger",
+    "url"  : "https://www.autobytel.com/ford/transit-150-passenger/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "transit-250",
+    "url"  : "https://www.autobytel.com/ford/transit-250/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "transit-250-cargo",
+    "url"  : "https://www.autobytel.com/ford/transit-250-cargo/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "transit-250-crew",
+    "url"  : "https://www.autobytel.com/ford/transit-250-crew/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "transit-350",
+    "url"  : "https://www.autobytel.com/ford/transit-350/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "transit-350-cargo",
+    "url"  : "https://www.autobytel.com/ford/transit-350-cargo/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "transit-350-crew",
+    "url"  : "https://www.autobytel.com/ford/transit-350-crew/2020/configurator/"
+  },
+  {
+    "make" : "Ford",
+    "model": "transit-350-passenger",
+    "url"  : "https://www.autobytel.com/ford/transit-350-passenger/2020/configurator/"
+  },
+  {
+    "make" : "Genesis",
+    "model": "g70",
+    "url"  : "https://www.autobytel.com/genesis/g70/2020/configurator/"
+  },
+  {
+    "make" : "Genesis",
+    "model": "g80",
+    "url"  : "https://www.autobytel.com/genesis/g80/2020/configurator/"
+  },
+  {
+    "make" : "Genesis",
+    "model": "g90",
+    "url"  : "https://www.autobytel.com/genesis/g90/2020/configurator/"
+  },
+  {
+    "make" : "GMC",
+    "model": "acadia",
+    "url"  : "https://www.autobytel.com/gmc/acadia/2020/configurator/"
+  },
+  {
+    "make" : "GMC",
+    "model": "canyon",
+    "url"  : "https://www.autobytel.com/gmc/canyon/2020/configurator/"
+  },
+  {
+    "make" : "GMC",
+    "model": "savana-2500",
+    "url"  : "https://www.autobytel.com/gmc/savana-2500/2020/configurator/"
+  },
+  {
+    "make" : "GMC",
+    "model": "savana-3500",
+    "url"  : "https://www.autobytel.com/gmc/savana-3500/2020/configurator/"
+  },
+  {
+    "make" : "GMC",
+    "model": "sierra-1500",
+    "url"  : "https://www.autobytel.com/gmc/sierra-1500/2020/configurator/"
+  },
+  {
+    "make" : "GMC",
+    "model": "sierra-1500-limited",
+    "url"  : "https://www.autobytel.com/gmc/sierra-1500-limited/2020/configurator/"
+  },
+  {
+    "make" : "GMC",
+    "model": "sierra-2500hd",
+    "url"  : "https://www.autobytel.com/gmc/sierra-2500hd/2020/configurator/"
+  },
+  {
+    "make" : "GMC",
+    "model": "sierra-3500hd",
+    "url"  : "https://www.autobytel.com/gmc/sierra-3500hd/2020/configurator/"
+  },
+  {
+    "make" : "GMC",
+    "model": "terrain",
+    "url"  : "https://www.autobytel.com/gmc/terrain/2020/configurator/"
+  },
+  {
+    "make" : "GMC",
+    "model": "yukon",
+    "url"  : "https://www.autobytel.com/gmc/yukon/2020/configurator/"
+  },
+  {
+    "make" : "GMC",
+    "model": "yukon-xl",
+    "url"  : "https://www.autobytel.com/gmc/yukon-xl/2020/configurator/"
+  },
+  {
+    "make" : "Honda",
+    "model": "accord",
+    "url"  : "https://www.autobytel.com/honda/accord/2020/configurator/"
+  },
+  {
+    "make" : "Honda",
+    "model": "accord-hybrid",
+    "url"  : "https://www.autobytel.com/honda/accord-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Honda",
+    "model": "civic",
+    "url"  : "https://www.autobytel.com/honda/civic/2020/configurator/"
+  },
+  {
+    "make" : "Honda",
+    "model": "civic-si",
+    "url"  : "https://www.autobytel.com/honda/civic-si/2020/configurator/"
+  },
+  {
+    "make" : "Honda",
+    "model": "civic-type-r",
+    "url"  : "https://www.autobytel.com/honda/civic-type-r/2020/configurator/"
+  },
+  {
+    "make" : "Honda",
+    "model": "clarity-electric",
+    "url"  : "https://www.autobytel.com/honda/clarity-electric/2020/configurator/"
+  },
+  {
+    "make" : "Honda",
+    "model": "clarity-fuel-cell",
+    "url"  : "https://www.autobytel.com/honda/clarity-fuel-cell/2020/configurator/"
+  },
+  {
+    "make" : "Honda",
+    "model": "clarity-plug-in-hybrid",
+    "url"  : "https://www.autobytel.com/honda/clarity-plug-in-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Honda",
+    "model": "cr-v",
+    "url"  : "https://www.autobytel.com/honda/cr-v/2020/configurator/"
+  },
+  {
+    "make" : "Honda",
+    "model": "fit",
+    "url"  : "https://www.autobytel.com/honda/fit/2020/configurator/"
+  },
+  {
+    "make" : "Honda",
+    "model": "hr-v",
+    "url"  : "https://www.autobytel.com/honda/hr-v/2020/configurator/"
+  },
+  {
+    "make" : "Honda",
+    "model": "insight",
+    "url"  : "https://www.autobytel.com/honda/insight/2020/configurator/"
+  },
+  {
+    "make" : "Honda",
+    "model": "odyssey",
+    "url"  : "https://www.autobytel.com/honda/odyssey/2020/configurator/"
+  },
+  {
+    "make" : "Honda",
+    "model": "passport",
+    "url"  : "https://www.autobytel.com/honda/passport/2020/configurator/"
+  },
+  {
+    "make" : "Honda",
+    "model": "pilot",
+    "url"  : "https://www.autobytel.com/honda/pilot/2020/configurator/"
+  },
+  {
+    "make" : "Honda",
+    "model": "ridgeline",
+    "url"  : "https://www.autobytel.com/honda/ridgeline/2020/configurator/"
+  },
+  {
+    "make" : "Hyundai",
+    "model": "accent",
+    "url"  : "https://www.autobytel.com/hyundai/accent/2020/configurator/"
+  },
+  {
+    "make" : "Hyundai",
+    "model": "elantra",
+    "url"  : "https://www.autobytel.com/hyundai/elantra/2020/configurator/"
+  },
+  {
+    "make" : "Hyundai",
+    "model": "elantra-gt",
+    "url"  : "https://www.autobytel.com/hyundai/elantra-gt/2020/configurator/"
+  },
+  {
+    "make" : "Hyundai",
+    "model": "ioniq-ev",
+    "url"  : "https://www.autobytel.com/hyundai/ioniq-ev/2020/configurator/"
+  },
+  {
+    "make" : "Hyundai",
+    "model": "ioniq-hybrid",
+    "url"  : "https://www.autobytel.com/hyundai/ioniq-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Hyundai",
+    "model": "ioniq-plug-in-hybrid",
+    "url"  : "https://www.autobytel.com/hyundai/ioniq-plug-in-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Hyundai",
+    "model": "kona",
+    "url"  : "https://www.autobytel.com/hyundai/kona/2020/configurator/"
+  },
+  {
+    "make" : "Hyundai",
+    "model": "kona-ev",
+    "url"  : "https://www.autobytel.com/hyundai/kona-ev/2020/configurator/"
+  },
+  {
+    "make" : "Hyundai",
+    "model": "nexo",
+    "url"  : "https://www.autobytel.com/hyundai/nexo/2020/configurator/"
+  },
+  {
+    "make" : "Hyundai",
+    "model": "palisade",
+    "url"  : "https://www.autobytel.com/hyundai/palisade/2020/configurator/"
+  },
+  {
+    "make" : "Hyundai",
+    "model": "santa-fe",
+    "url"  : "https://www.autobytel.com/hyundai/santa-fe/2020/configurator/"
+  },
+  {
+    "make" : "Hyundai",
+    "model": "santa-fe-xl",
+    "url"  : "https://www.autobytel.com/hyundai/santa-fe-xl/2020/configurator/"
+  },
+  {
+    "make" : "Hyundai",
+    "model": "sonata",
+    "url"  : "https://www.autobytel.com/hyundai/sonata/2020/configurator/"
+  },
+  {
+    "make" : "Hyundai",
+    "model": "sonata-hybrid",
+    "url"  : "https://www.autobytel.com/hyundai/sonata-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Hyundai",
+    "model": "sonata-plug-in-hybrid",
+    "url"  : "https://www.autobytel.com/hyundai/sonata-plug-in-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Hyundai",
+    "model": "tucson",
+    "url"  : "https://www.autobytel.com/hyundai/tucson/2020/configurator/"
+  },
+  {
+    "make" : "Hyundai",
+    "model": "veloster",
+    "url"  : "https://www.autobytel.com/hyundai/veloster/2020/configurator/"
+  },
+  {
+    "make" : "Hyundai",
+    "model": "veloster-n",
+    "url"  : "https://www.autobytel.com/hyundai/veloster-n/2020/configurator/"
+  },
+  {
+    "make" : "Hyundai",
+    "model": "venue",
+    "url"  : "https://www.autobytel.com/hyundai/venue/2020/configurator/"
+  },
+  {
+    "make" : "Infiniti",
+    "model": "q50",
+    "url"  : "https://www.autobytel.com/infiniti/q50/2020/configurator/"
+  },
+  {
+    "make" : "Infiniti",
+    "model": "q60",
+    "url"  : "https://www.autobytel.com/infiniti/q60/2020/configurator/"
+  },
+  {
+    "make" : "Infiniti",
+    "model": "q70",
+    "url"  : "https://www.autobytel.com/infiniti/q70/2020/configurator/"
+  },
+  {
+    "make" : "Infiniti",
+    "model": "q70l",
+    "url"  : "https://www.autobytel.com/infiniti/q70l/2020/configurator/"
+  },
+  {
+    "make" : "Infiniti",
+    "model": "qx30",
+    "url"  : "https://www.autobytel.com/infiniti/qx30/2020/configurator/"
+  },
+  {
+    "make" : "Infiniti",
+    "model": "qx50",
+    "url"  : "https://www.autobytel.com/infiniti/qx50/2020/configurator/"
+  },
+  {
+    "make" : "Infiniti",
+    "model": "qx60",
+    "url"  : "https://www.autobytel.com/infiniti/qx60/2020/configurator/"
+  },
+  {
+    "make" : "Infiniti",
+    "model": "qx80",
+    "url"  : "https://www.autobytel.com/infiniti/qx80/2020/configurator/"
+  },
+  {
+    "make" : "Jaguar",
+    "model": "e-pace",
+    "url"  : "https://www.autobytel.com/jaguar/e-pace/2020/configurator/"
+  },
+  {
+    "make" : "Jaguar",
+    "model": "f-pace",
+    "url"  : "https://www.autobytel.com/jaguar/f-pace/2020/configurator/"
+  },
+  {
+    "make" : "Jaguar",
+    "model": "f-type",
+    "url"  : "https://www.autobytel.com/jaguar/f-type/2020/configurator/"
+  },
+  {
+    "make" : "Jaguar",
+    "model": "i-pace",
+    "url"  : "https://www.autobytel.com/jaguar/i-pace/2020/configurator/"
+  },
+  {
+    "make" : "Jaguar",
+    "model": "xe",
+    "url"  : "https://www.autobytel.com/jaguar/xe/2020/configurator/"
+  },
+  {
+    "make" : "Jaguar",
+    "model": "xe-sv",
+    "url"  : "https://www.autobytel.com/jaguar/xe-sv/2020/configurator/"
+  },
+  {
+    "make" : "Jaguar",
+    "model": "xf",
+    "url"  : "https://www.autobytel.com/jaguar/xf/2020/configurator/"
+  },
+  {
+    "make" : "Jaguar",
+    "model": "xj",
+    "url"  : "https://www.autobytel.com/jaguar/xj/2020/configurator/"
+  },
+  {
+    "make" : "Jeep",
+    "model": "cherokee",
+    "url"  : "https://www.autobytel.com/jeep/cherokee/2020/configurator/"
+  },
+  {
+    "make" : "Jeep",
+    "model": "compass",
+    "url"  : "https://www.autobytel.com/jeep/compass/2020/configurator/"
+  },
+  {
+    "make" : "Jeep",
+    "model": "gladiator",
+    "url"  : "https://www.autobytel.com/jeep/gladiator/2020/configurator/"
+  },
+  {
+    "make" : "Jeep",
+    "model": "grand-cherokee",
+    "url"  : "https://www.autobytel.com/jeep/grand-cherokee/2020/configurator/"
+  },
+  {
+    "make" : "Jeep",
+    "model": "renegade",
+    "url"  : "https://www.autobytel.com/jeep/renegade/2020/configurator/"
+  },
+  {
+    "make" : "Jeep",
+    "model": "wrangler",
+    "url"  : "https://www.autobytel.com/jeep/wrangler/2020/configurator/"
+  },
+  {
+    "make" : "Jeep",
+    "model": "wrangler-unlimited",
+    "url"  : "https://www.autobytel.com/jeep/wrangler-unlimited/2020/configurator/"
+  },
+  {
+    "make" : "Kia",
+    "model": "cadenza",
+    "url"  : "https://www.autobytel.com/kia/cadenza/2020/configurator/"
+  },
+  {
+    "make" : "Kia",
+    "model": "forte",
+    "url"  : "https://www.autobytel.com/kia/forte/2020/configurator/"
+  },
+  {
+    "make" : "Kia",
+    "model": "k900",
+    "url"  : "https://www.autobytel.com/kia/k900/2020/configurator/"
+  },
+  {
+    "make" : "Kia",
+    "model": "niro",
+    "url"  : "https://www.autobytel.com/kia/niro/2020/configurator/"
+  },
+  {
+    "make" : "Kia",
+    "model": "niro-ev",
+    "url"  : "https://www.autobytel.com/kia/niro-ev/2020/configurator/"
+  },
+  {
+    "make" : "Kia",
+    "model": "niro-plug-in-hybrid",
+    "url"  : "https://www.autobytel.com/kia/niro-plug-in-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Kia",
+    "model": "optima",
+    "url"  : "https://www.autobytel.com/kia/optima/2020/configurator/"
+  },
+  {
+    "make" : "Kia",
+    "model": "optima-hybrid",
+    "url"  : "https://www.autobytel.com/kia/optima-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Kia",
+    "model": "optima-plug-in-hybrid",
+    "url"  : "https://www.autobytel.com/kia/optima-plug-in-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Kia",
+    "model": "rio",
+    "url"  : "https://www.autobytel.com/kia/rio/2020/configurator/"
+  },
+  {
+    "make" : "Kia",
+    "model": "sedona",
+    "url"  : "https://www.autobytel.com/kia/sedona/2020/configurator/"
+  },
+  {
+    "make" : "Kia",
+    "model": "seltos",
+    "url"  : "https://www.autobytel.com/kia/seltos/2020/configurator/"
+  },
+  {
+    "make" : "Kia",
+    "model": "sorento",
+    "url"  : "https://www.autobytel.com/kia/sorento/2020/configurator/"
+  },
+  {
+    "make" : "Kia",
+    "model": "soul",
+    "url"  : "https://www.autobytel.com/kia/soul/2020/configurator/"
+  },
+  {
+    "make" : "Kia",
+    "model": "soul-ev",
+    "url"  : "https://www.autobytel.com/kia/soul-ev/2020/configurator/"
+  },
+  {
+    "make" : "Kia",
+    "model": "sportage",
+    "url"  : "https://www.autobytel.com/kia/sportage/2020/configurator/"
+  },
+  {
+    "make" : "Kia",
+    "model": "stinger",
+    "url"  : "https://www.autobytel.com/kia/stinger/2020/configurator/"
+  },
+  {
+    "make" : "Kia",
+    "model": "telluride",
+    "url"  : "https://www.autobytel.com/kia/telluride/2020/configurator/"
+  },
+  {
+    "make" : "Lamborghini",
+    "model": "aventador-s",
+    "url"  : "https://www.autobytel.com/lamborghini/aventador-s/2020/configurator/"
+  },
+  {
+    "make" : "Lamborghini",
+    "model": "huracan",
+    "url"  : "https://www.autobytel.com/lamborghini/huracan/2020/configurator/"
+  },
+  {
+    "make" : "Lamborghini",
+    "model": "huracan-evo",
+    "url"  : "https://www.autobytel.com/lamborghini/huracan-evo/2020/configurator/"
+  },
+  {
+    "make" : "Lamborghini",
+    "model": "urus",
+    "url"  : "https://www.autobytel.com/lamborghini/urus/2020/configurator/"
+  },
+  {
+    "make" : "Land Rover",
+    "model": "defender",
+    "url"  : "https://www.autobytel.com/land-rover/defender/2020/configurator/"
+  },
+  {
+    "make" : "Land Rover",
+    "model": "discovery",
+    "url"  : "https://www.autobytel.com/land-rover/discovery/2020/configurator/"
+  },
+  {
+    "make" : "Land Rover",
+    "model": "discovery-sport",
+    "url"  : "https://www.autobytel.com/land-rover/discovery-sport/2020/configurator/"
+  },
+  {
+    "make" : "Land Rover",
+    "model": "range-rover",
+    "url"  : "https://www.autobytel.com/land-rover/range-rover/2020/configurator/"
+  },
+  {
+    "make" : "Land Rover",
+    "model": "range-rover-evoque",
+    "url"  : "https://www.autobytel.com/land-rover/range-rover-evoque/2020/configurator/"
+  },
+  {
+    "make" : "Land Rover",
+    "model": "range-rover-sport",
+    "url"  : "https://www.autobytel.com/land-rover/range-rover-sport/2020/configurator/"
+  },
+  {
+    "make" : "Land Rover",
+    "model": "range-rover-velar",
+    "url"  : "https://www.autobytel.com/land-rover/range-rover-velar/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "es-300h",
+    "url"  : "https://www.autobytel.com/lexus/es-300h/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "es-350",
+    "url"  : "https://www.autobytel.com/lexus/es-350/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "gs-300",
+    "url"  : "https://www.autobytel.com/lexus/gs-300/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "gs-350",
+    "url"  : "https://www.autobytel.com/lexus/gs-350/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "gs-f",
+    "url"  : "https://www.autobytel.com/lexus/gs-f/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "gx-460",
+    "url"  : "https://www.autobytel.com/lexus/gx-460/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "is-300",
+    "url"  : "https://www.autobytel.com/lexus/is-300/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "is-350",
+    "url"  : "https://www.autobytel.com/lexus/is-350/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "lc-500",
+    "url"  : "https://www.autobytel.com/lexus/lc-500/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "lc-500h",
+    "url"  : "https://www.autobytel.com/lexus/lc-500h/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "ls-500",
+    "url"  : "https://www.autobytel.com/lexus/ls-500/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "ls-500h",
+    "url"  : "https://www.autobytel.com/lexus/ls-500h/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "lx-570",
+    "url"  : "https://www.autobytel.com/lexus/lx-570/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "nx-300",
+    "url"  : "https://www.autobytel.com/lexus/nx-300/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "nx-300h",
+    "url"  : "https://www.autobytel.com/lexus/nx-300h/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "rc-300",
+    "url"  : "https://www.autobytel.com/lexus/rc-300/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "rc-350",
+    "url"  : "https://www.autobytel.com/lexus/rc-350/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "rc-f",
+    "url"  : "https://www.autobytel.com/lexus/rc-f/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "rx-350",
+    "url"  : "https://www.autobytel.com/lexus/rx-350/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "rx-350l",
+    "url"  : "https://www.autobytel.com/lexus/rx-350l/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "rx-450h",
+    "url"  : "https://www.autobytel.com/lexus/rx-450h/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "rx-450hl",
+    "url"  : "https://www.autobytel.com/lexus/rx-450hl/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "ux-200",
+    "url"  : "https://www.autobytel.com/lexus/ux-200/2020/configurator/"
+  },
+  {
+    "make" : "Lexus",
+    "model": "ux-250h",
+    "url"  : "https://www.autobytel.com/lexus/ux-250h/2020/configurator/"
+  },
+  {
+    "make" : "Lincoln",
+    "model": "aviator",
+    "url"  : "https://www.autobytel.com/lincoln/aviator/2020/configurator/"
+  },
+  {
+    "make" : "Lincoln",
+    "model": "continental",
+    "url"  : "https://www.autobytel.com/lincoln/continental/2020/configurator/"
+  },
+  {
+    "make" : "Lincoln",
+    "model": "corsair",
+    "url"  : "https://www.autobytel.com/lincoln/corsair/2020/configurator/"
+  },
+  {
+    "make" : "Lincoln",
+    "model": "mkc",
+    "url"  : "https://www.autobytel.com/lincoln/mkc/2020/configurator/"
+  },
+  {
+    "make" : "Lincoln",
+    "model": "mkt",
+    "url"  : "https://www.autobytel.com/lincoln/mkt/2020/configurator/"
+  },
+  {
+    "make" : "Lincoln",
+    "model": "mkz",
+    "url"  : "https://www.autobytel.com/lincoln/mkz/2020/configurator/"
+  },
+  {
+    "make" : "Lincoln",
+    "model": "mkz-hybrid",
+    "url"  : "https://www.autobytel.com/lincoln/mkz-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Lincoln",
+    "model": "nautilus",
+    "url"  : "https://www.autobytel.com/lincoln/nautilus/2020/configurator/"
+  },
+  {
+    "make" : "Lincoln",
+    "model": "navigator",
+    "url"  : "https://www.autobytel.com/lincoln/navigator/2020/configurator/"
+  },
+  {
+    "make" : "Lincoln",
+    "model": "navigator-l",
+    "url"  : "https://www.autobytel.com/lincoln/navigator-l/2020/configurator/"
+  },
+  {
+    "make" : "Maserati",
+    "model": "ghibli",
+    "url"  : "https://www.autobytel.com/maserati/ghibli/2020/configurator/"
+  },
+  {
+    "make" : "Maserati",
+    "model": "granturismo",
+    "url"  : "https://www.autobytel.com/maserati/granturismo/2020/configurator/"
+  },
+  {
+    "make" : "Maserati",
+    "model": "levante",
+    "url"  : "https://www.autobytel.com/maserati/levante/2020/configurator/"
+  },
+  {
+    "make" : "Maserati",
+    "model": "quattroporte",
+    "url"  : "https://www.autobytel.com/maserati/quattroporte/2020/configurator/"
+  },
+  {
+    "make" : "Mazda",
+    "model": "cx-3",
+    "url"  : "https://www.autobytel.com/mazda/cx-3/2020/configurator/"
+  },
+  {
+    "make" : "Mazda",
+    "model": "cx-30",
+    "url"  : "https://www.autobytel.com/mazda/cx-30/2020/configurator/"
+  },
+  {
+    "make" : "Mazda",
+    "model": "cx-5",
+    "url"  : "https://www.autobytel.com/mazda/cx-5/2020/configurator/"
+  },
+  {
+    "make" : "Mazda",
+    "model": "cx-9",
+    "url"  : "https://www.autobytel.com/mazda/cx-9/2020/configurator/"
+  },
+  {
+    "make" : "Mazda",
+    "model": "mazda3",
+    "url"  : "https://www.autobytel.com/mazda/mazda3/2020/configurator/"
+  },
+  {
+    "make" : "Mazda",
+    "model": "mazda6",
+    "url"  : "https://www.autobytel.com/mazda/mazda6/2020/configurator/"
+  },
+  {
+    "make" : "Mazda",
+    "model": "mx-5-miata",
+    "url"  : "https://www.autobytel.com/mazda/mx-5-miata/2020/configurator/"
+  },
+  {
+    "make" : "Mazda",
+    "model": "mx-5-miata-rf",
+    "url"  : "https://www.autobytel.com/mazda/mx-5-miata-rf/2020/configurator/"
+  },
+  {
+    "make" : "McLaren",
+    "model": "570s",
+    "url"  : "https://www.autobytel.com/mclaren/570s/2020/configurator/"
+  },
+  {
+    "make" : "McLaren",
+    "model": "600lt",
+    "url"  : "https://www.autobytel.com/mclaren/600lt/2020/configurator/"
+  },
+  {
+    "make" : "McLaren",
+    "model": "720s",
+    "url"  : "https://www.autobytel.com/mclaren/720s/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "a-class",
+    "url"  : "https://www.autobytel.com/mercedes-benz/a-class/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "amg-c-43",
+    "url"  : "https://www.autobytel.com/mercedes-benz/amg-c-43/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "amg-c-63",
+    "url"  : "https://www.autobytel.com/mercedes-benz/amg-c-63/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "amg-cla-35",
+    "url"  : "https://www.autobytel.com/mercedes-benz/amg-cla-35/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "amg-cla-45",
+    "url"  : "https://www.autobytel.com/mercedes-benz/amg-cla-45/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "amg-cls-53",
+    "url"  : "https://www.autobytel.com/mercedes-benz/amg-cls-53/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "amg-e-53",
+    "url"  : "https://www.autobytel.com/mercedes-benz/amg-e-53/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "amg-e-63",
+    "url"  : "https://www.autobytel.com/mercedes-benz/amg-e-63/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "amg-g-63",
+    "url"  : "https://www.autobytel.com/mercedes-benz/amg-g-63/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "amg-gla-45",
+    "url"  : "https://www.autobytel.com/mercedes-benz/amg-gla-45/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "amg-glc-43",
+    "url"  : "https://www.autobytel.com/mercedes-benz/amg-glc-43/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "amg-glc-63",
+    "url"  : "https://www.autobytel.com/mercedes-benz/amg-glc-63/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "amg-gle-43",
+    "url"  : "https://www.autobytel.com/mercedes-benz/amg-gle-43/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "amg-gle-63",
+    "url"  : "https://www.autobytel.com/mercedes-benz/amg-gle-63/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "amg-gls-63",
+    "url"  : "https://www.autobytel.com/mercedes-benz/amg-gls-63/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "amg-gt",
+    "url"  : "https://www.autobytel.com/mercedes-benz/amg-gt/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "amg-gt-53",
+    "url"  : "https://www.autobytel.com/mercedes-benz/amg-gt-53/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "amg-gt-63",
+    "url"  : "https://www.autobytel.com/mercedes-benz/amg-gt-63/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "amg-s-63",
+    "url"  : "https://www.autobytel.com/mercedes-benz/amg-s-63/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "amg-s-65",
+    "url"  : "https://www.autobytel.com/mercedes-benz/amg-s-65/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "amg-sl-63",
+    "url"  : "https://www.autobytel.com/mercedes-benz/amg-sl-63/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "amg-slc-43",
+    "url"  : "https://www.autobytel.com/mercedes-benz/amg-slc-43/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "c-class",
+    "url"  : "https://www.autobytel.com/mercedes-benz/c-class/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "cla-250",
+    "url"  : "https://www.autobytel.com/mercedes-benz/cla-250/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "cls-450",
+    "url"  : "https://www.autobytel.com/mercedes-benz/cls-450/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "e-class",
+    "url"  : "https://www.autobytel.com/mercedes-benz/e-class/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "g-class",
+    "url"  : "https://www.autobytel.com/mercedes-benz/g-class/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "gla-250",
+    "url"  : "https://www.autobytel.com/mercedes-benz/gla-250/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "glb-250",
+    "url"  : "https://www.autobytel.com/mercedes-benz/glb-250/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "glc-300",
+    "url"  : "https://www.autobytel.com/mercedes-benz/glc-300/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "glc-350e",
+    "url"  : "https://www.autobytel.com/mercedes-benz/glc-350e/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "gle-350",
+    "url"  : "https://www.autobytel.com/mercedes-benz/gle-350/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "gle-400",
+    "url"  : "https://www.autobytel.com/mercedes-benz/gle-400/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "gle-450",
+    "url"  : "https://www.autobytel.com/mercedes-benz/gle-450/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "gle-580",
+    "url"  : "https://www.autobytel.com/mercedes-benz/gle-580/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "gls-450",
+    "url"  : "https://www.autobytel.com/mercedes-benz/gls-450/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "gls-550",
+    "url"  : "https://www.autobytel.com/mercedes-benz/gls-550/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "gls-580",
+    "url"  : "https://www.autobytel.com/mercedes-benz/gls-580/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "maybach-s-560",
+    "url"  : "https://www.autobytel.com/mercedes-benz/maybach-s-560/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "maybach-s-650",
+    "url"  : "https://www.autobytel.com/mercedes-benz/maybach-s-650/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "metris",
+    "url"  : "https://www.autobytel.com/mercedes-benz/metris/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "s-class",
+    "url"  : "https://www.autobytel.com/mercedes-benz/s-class/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "sl-450",
+    "url"  : "https://www.autobytel.com/mercedes-benz/sl-450/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "sl-550",
+    "url"  : "https://www.autobytel.com/mercedes-benz/sl-550/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "slc-300",
+    "url"  : "https://www.autobytel.com/mercedes-benz/slc-300/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "sprinter-1500",
+    "url"  : "https://www.autobytel.com/mercedes-benz/sprinter-1500/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "sprinter-2500",
+    "url"  : "https://www.autobytel.com/mercedes-benz/sprinter-2500/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "sprinter-3500",
+    "url"  : "https://www.autobytel.com/mercedes-benz/sprinter-3500/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "sprinter-3500xd",
+    "url"  : "https://www.autobytel.com/mercedes-benz/sprinter-3500xd/2020/configurator/"
+  },
+  {
+    "make" : "Mercedes-Benz",
+    "model": "sprinter-4500",
+    "url"  : "https://www.autobytel.com/mercedes-benz/sprinter-4500/2020/configurator/"
+  },
+  {
+    "make" : "MINI",
+    "model": "clubman",
+    "url"  : "https://www.autobytel.com/mini/clubman/2020/configurator/"
+  },
+  {
+    "make" : "MINI",
+    "model": "convertible",
+    "url"  : "https://www.autobytel.com/mini/convertible/2020/configurator/"
+  },
+  {
+    "make" : "MINI",
+    "model": "countryman",
+    "url"  : "https://www.autobytel.com/mini/countryman/2020/configurator/"
+  },
+  {
+    "make" : "MINI",
+    "model": "e-countryman",
+    "url"  : "https://www.autobytel.com/mini/e-countryman/2020/configurator/"
+  },
+  {
+    "make" : "MINI",
+    "model": "hardtop",
+    "url"  : "https://www.autobytel.com/mini/hardtop/2020/configurator/"
+  },
+  {
+    "make" : "Mitsubishi",
+    "model": "eclipse-cross",
+    "url"  : "https://www.autobytel.com/mitsubishi/eclipse-cross/2020/configurator/"
+  },
+  {
+    "make" : "Mitsubishi",
+    "model": "mirage",
+    "url"  : "https://www.autobytel.com/mitsubishi/mirage/2020/configurator/"
+  },
+  {
+    "make" : "Mitsubishi",
+    "model": "mirage-g4",
+    "url"  : "https://www.autobytel.com/mitsubishi/mirage-g4/2020/configurator/"
+  },
+  {
+    "make" : "Mitsubishi",
+    "model": "outlander",
+    "url"  : "https://www.autobytel.com/mitsubishi/outlander/2020/configurator/"
+  },
+  {
+    "make" : "Mitsubishi",
+    "model": "outlander-phev",
+    "url"  : "https://www.autobytel.com/mitsubishi/outlander-phev/2020/configurator/"
+  },
+  {
+    "make" : "Mitsubishi",
+    "model": "outlander-sport",
+    "url"  : "https://www.autobytel.com/mitsubishi/outlander-sport/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "370z",
+    "url"  : "https://www.autobytel.com/nissan/370z/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "altima",
+    "url"  : "https://www.autobytel.com/nissan/altima/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "armada",
+    "url"  : "https://www.autobytel.com/nissan/armada/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "frontier",
+    "url"  : "https://www.autobytel.com/nissan/frontier/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "gt-r",
+    "url"  : "https://www.autobytel.com/nissan/gt-r/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "kicks",
+    "url"  : "https://www.autobytel.com/nissan/kicks/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "leaf",
+    "url"  : "https://www.autobytel.com/nissan/leaf/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "maxima",
+    "url"  : "https://www.autobytel.com/nissan/maxima/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "murano",
+    "url"  : "https://www.autobytel.com/nissan/murano/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "nv-cargo-nv1500",
+    "url"  : "https://www.autobytel.com/nissan/nv-cargo-nv1500/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "nv-cargo-nv2500-hd",
+    "url"  : "https://www.autobytel.com/nissan/nv-cargo-nv2500-hd/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "nv-cargo-nv3500-hd",
+    "url"  : "https://www.autobytel.com/nissan/nv-cargo-nv3500-hd/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "nv-passenger-nv3500-hd",
+    "url"  : "https://www.autobytel.com/nissan/nv-passenger-nv3500-hd/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "nv200",
+    "url"  : "https://www.autobytel.com/nissan/nv200/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "nv200-taxi",
+    "url"  : "https://www.autobytel.com/nissan/nv200-taxi/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "pathfinder",
+    "url"  : "https://www.autobytel.com/nissan/pathfinder/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "rogue",
+    "url"  : "https://www.autobytel.com/nissan/rogue/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "rogue-hybrid",
+    "url"  : "https://www.autobytel.com/nissan/rogue-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "rogue-sport",
+    "url"  : "https://www.autobytel.com/nissan/rogue-sport/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "sentra",
+    "url"  : "https://www.autobytel.com/nissan/sentra/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "titan",
+    "url"  : "https://www.autobytel.com/nissan/titan/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "titan-xd",
+    "url"  : "https://www.autobytel.com/nissan/titan-xd/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "versa",
+    "url"  : "https://www.autobytel.com/nissan/versa/2020/configurator/"
+  },
+  {
+    "make" : "Nissan",
+    "model": "versa-note",
+    "url"  : "https://www.autobytel.com/nissan/versa-note/2020/configurator/"
+  },
+  {
+    "make" : "Porsche",
+    "model": "718-boxster",
+    "url"  : "https://www.autobytel.com/porsche/718-boxster/2020/configurator/"
+  },
+  {
+    "make" : "Porsche",
+    "model": "718-cayman",
+    "url"  : "https://www.autobytel.com/porsche/718-cayman/2020/configurator/"
+  },
+  {
+    "make" : "Porsche",
+    "model": "718-spyder",
+    "url"  : "https://www.autobytel.com/porsche/718-spyder/2020/configurator/"
+  },
+  {
+    "make" : "Porsche",
+    "model": "911",
+    "url"  : "https://www.autobytel.com/porsche/911/2020/configurator/"
+  },
+  {
+    "make" : "Porsche",
+    "model": "cayenne",
+    "url"  : "https://www.autobytel.com/porsche/cayenne/2020/configurator/"
+  },
+  {
+    "make" : "Porsche",
+    "model": "cayenne-coupe",
+    "url"  : "https://www.autobytel.com/porsche/cayenne-coupe/2020/configurator/"
+  },
+  {
+    "make" : "Porsche",
+    "model": "cayenne-e-hybrid",
+    "url"  : "https://www.autobytel.com/porsche/cayenne-e-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Porsche",
+    "model": "cayenne-e-hybrid-coupe",
+    "url"  : "https://www.autobytel.com/porsche/cayenne-e-hybrid-coupe/2020/configurator/"
+  },
+  {
+    "make" : "Porsche",
+    "model": "macan",
+    "url"  : "https://www.autobytel.com/porsche/macan/2020/configurator/"
+  },
+  {
+    "make" : "Porsche",
+    "model": "panamera",
+    "url"  : "https://www.autobytel.com/porsche/panamera/2020/configurator/"
+  },
+  {
+    "make" : "Porsche",
+    "model": "panamera-e-hybrid",
+    "url"  : "https://www.autobytel.com/porsche/panamera-e-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Porsche",
+    "model": "panamera-e-hybrid-sport-turismo",
+    "url"  : "https://www.autobytel.com/porsche/panamera-e-hybrid-sport-turismo/2020/configurator/"
+  },
+  {
+    "make" : "Porsche",
+    "model": "panamera-sport-turismo",
+    "url"  : "https://www.autobytel.com/porsche/panamera-sport-turismo/2020/configurator/"
+  },
+  {
+    "make" : "Porsche",
+    "model": "taycan",
+    "url"  : "https://www.autobytel.com/porsche/taycan/2020/configurator/"
+  },
+  {
+    "make" : "RAM",
+    "model": "1500",
+    "url"  : "https://www.autobytel.com/ram/1500/2020/configurator/"
+  },
+  {
+    "make" : "RAM",
+    "model": "1500-classic",
+    "url"  : "https://www.autobytel.com/ram/1500-classic/2020/configurator/"
+  },
+  {
+    "make" : "RAM",
+    "model": "2500",
+    "url"  : "https://www.autobytel.com/ram/2500/2020/configurator/"
+  },
+  {
+    "make" : "RAM",
+    "model": "3500",
+    "url"  : "https://www.autobytel.com/ram/3500/2020/configurator/"
+  },
+  {
+    "make" : "RAM",
+    "model": "promaster-1500",
+    "url"  : "https://www.autobytel.com/ram/promaster-1500/2020/configurator/"
+  },
+  {
+    "make" : "RAM",
+    "model": "promaster-2500",
+    "url"  : "https://www.autobytel.com/ram/promaster-2500/2020/configurator/"
+  },
+  {
+    "make" : "RAM",
+    "model": "promaster-2500-window-van",
+    "url"  : "https://www.autobytel.com/ram/promaster-2500-window-van/2020/configurator/"
+  },
+  {
+    "make" : "RAM",
+    "model": "promaster-3500",
+    "url"  : "https://www.autobytel.com/ram/promaster-3500/2020/configurator/"
+  },
+  {
+    "make" : "RAM",
+    "model": "promaster-3500-window-van",
+    "url"  : "https://www.autobytel.com/ram/promaster-3500-window-van/2020/configurator/"
+  },
+  {
+    "make" : "RAM",
+    "model": "promaster-city",
+    "url"  : "https://www.autobytel.com/ram/promaster-city/2020/configurator/"
+  },
+  {
+    "make" : "Rolls-Royce",
+    "model": "cullinan",
+    "url"  : "https://www.autobytel.com/rolls-royce/cullinan/2020/configurator/"
+  },
+  {
+    "make" : "Rolls-Royce",
+    "model": "dawn",
+    "url"  : "https://www.autobytel.com/rolls-royce/dawn/2020/configurator/"
+  },
+  {
+    "make" : "Rolls-Royce",
+    "model": "ghost",
+    "url"  : "https://www.autobytel.com/rolls-royce/ghost/2020/configurator/"
+  },
+  {
+    "make" : "Rolls-Royce",
+    "model": "phantom",
+    "url"  : "https://www.autobytel.com/rolls-royce/phantom/2020/configurator/"
+  },
+  {
+    "make" : "Rolls-Royce",
+    "model": "wraith",
+    "url"  : "https://www.autobytel.com/rolls-royce/wraith/2020/configurator/"
+  },
+  {
+    "make" : "smart",
+    "model": "eq-fortwo",
+    "url"  : "https://www.autobytel.com/smart/eq-fortwo/2020/configurator/"
+  },
+  {
+    "make" : "Subaru",
+    "model": "ascent",
+    "url"  : "https://www.autobytel.com/subaru/ascent/2020/configurator/"
+  },
+  {
+    "make" : "Subaru",
+    "model": "brz",
+    "url"  : "https://www.autobytel.com/subaru/brz/2020/configurator/"
+  },
+  {
+    "make" : "Subaru",
+    "model": "crosstrek",
+    "url"  : "https://www.autobytel.com/subaru/crosstrek/2020/configurator/"
+  },
+  {
+    "make" : "Subaru",
+    "model": "crosstrek-hybrid",
+    "url"  : "https://www.autobytel.com/subaru/crosstrek-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Subaru",
+    "model": "forester",
+    "url"  : "https://www.autobytel.com/subaru/forester/2020/configurator/"
+  },
+  {
+    "make" : "Subaru",
+    "model": "impreza",
+    "url"  : "https://www.autobytel.com/subaru/impreza/2020/configurator/"
+  },
+  {
+    "make" : "Subaru",
+    "model": "legacy",
+    "url"  : "https://www.autobytel.com/subaru/legacy/2020/configurator/"
+  },
+  {
+    "make" : "Subaru",
+    "model": "outback",
+    "url"  : "https://www.autobytel.com/subaru/outback/2020/configurator/"
+  },
+  {
+    "make" : "Subaru",
+    "model": "sti-s209",
+    "url"  : "https://www.autobytel.com/subaru/sti-s209/2020/configurator/"
+  },
+  {
+    "make" : "Subaru",
+    "model": "wrx",
+    "url"  : "https://www.autobytel.com/subaru/wrx/2020/configurator/"
+  },
+  {
+    "make" : "Subaru",
+    "model": "wrx-sti",
+    "url"  : "https://www.autobytel.com/subaru/wrx-sti/2020/configurator/"
+  },
+  {
+    "make" : "Tesla",
+    "model": "model-3",
+    "url"  : "https://www.autobytel.com/tesla/model-3/2020/configurator/"
+  },
+  {
+    "make" : "Tesla",
+    "model": "model-s",
+    "url"  : "https://www.autobytel.com/tesla/model-s/2020/configurator/"
+  },
+  {
+    "make" : "Tesla",
+    "model": "model-x",
+    "url"  : "https://www.autobytel.com/tesla/model-x/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "4runner",
+    "url"  : "https://www.autobytel.com/toyota/4runner/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "86",
+    "url"  : "https://www.autobytel.com/toyota/86/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "avalon",
+    "url"  : "https://www.autobytel.com/toyota/avalon/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "avalon-hybrid",
+    "url"  : "https://www.autobytel.com/toyota/avalon-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "c-hr",
+    "url"  : "https://www.autobytel.com/toyota/c-hr/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "camry",
+    "url"  : "https://www.autobytel.com/toyota/camry/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "camry-hybrid",
+    "url"  : "https://www.autobytel.com/toyota/camry-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "corolla",
+    "url"  : "https://www.autobytel.com/toyota/corolla/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "corolla-hatchback",
+    "url"  : "https://www.autobytel.com/toyota/corolla-hatchback/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "corolla-hybrid",
+    "url"  : "https://www.autobytel.com/toyota/corolla-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "highlander",
+    "url"  : "https://www.autobytel.com/toyota/highlander/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "highlander-hybrid",
+    "url"  : "https://www.autobytel.com/toyota/highlander-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "land-cruiser",
+    "url"  : "https://www.autobytel.com/toyota/land-cruiser/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "mirai",
+    "url"  : "https://www.autobytel.com/toyota/mirai/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "prius",
+    "url"  : "https://www.autobytel.com/toyota/prius/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "prius-c",
+    "url"  : "https://www.autobytel.com/toyota/prius-c/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "prius-prime",
+    "url"  : "https://www.autobytel.com/toyota/prius-prime/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "rav4",
+    "url"  : "https://www.autobytel.com/toyota/rav4/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "rav4-hybrid",
+    "url"  : "https://www.autobytel.com/toyota/rav4-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "sequoia",
+    "url"  : "https://www.autobytel.com/toyota/sequoia/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "sienna",
+    "url"  : "https://www.autobytel.com/toyota/sienna/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "supra",
+    "url"  : "https://www.autobytel.com/toyota/supra/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "tacoma",
+    "url"  : "https://www.autobytel.com/toyota/tacoma/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "tundra",
+    "url"  : "https://www.autobytel.com/toyota/tundra/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "yaris",
+    "url"  : "https://www.autobytel.com/toyota/yaris/2020/configurator/"
+  },
+  {
+    "make" : "Toyota",
+    "model": "yaris-sedan",
+    "url"  : "https://www.autobytel.com/toyota/yaris-sedan/2020/configurator/"
+  },
+  {
+    "make" : "Volkswagen",
+    "model": "arteon",
+    "url"  : "https://www.autobytel.com/volkswagen/arteon/2020/configurator/"
+  },
+  {
+    "make" : "Volkswagen",
+    "model": "atlas",
+    "url"  : "https://www.autobytel.com/volkswagen/atlas/2020/configurator/"
+  },
+  {
+    "make" : "Volkswagen",
+    "model": "atlas-cross-sport",
+    "url"  : "https://www.autobytel.com/volkswagen/atlas-cross-sport/2020/configurator/"
+  },
+  {
+    "make" : "Volkswagen",
+    "model": "beetle",
+    "url"  : "https://www.autobytel.com/volkswagen/beetle/2020/configurator/"
+  },
+  {
+    "make" : "Volkswagen",
+    "model": "e-golf",
+    "url"  : "https://www.autobytel.com/volkswagen/e-golf/2020/configurator/"
+  },
+  {
+    "make" : "Volkswagen",
+    "model": "golf",
+    "url"  : "https://www.autobytel.com/volkswagen/golf/2020/configurator/"
+  },
+  {
+    "make" : "Volkswagen",
+    "model": "golf-alltrack",
+    "url"  : "https://www.autobytel.com/volkswagen/golf-alltrack/2020/configurator/"
+  },
+  {
+    "make" : "Volkswagen",
+    "model": "golf-gti",
+    "url"  : "https://www.autobytel.com/volkswagen/golf-gti/2020/configurator/"
+  },
+  {
+    "make" : "Volkswagen",
+    "model": "golf-r",
+    "url"  : "https://www.autobytel.com/volkswagen/golf-r/2020/configurator/"
+  },
+  {
+    "make" : "Volkswagen",
+    "model": "golf-sportwagen",
+    "url"  : "https://www.autobytel.com/volkswagen/golf-sportwagen/2020/configurator/"
+  },
+  {
+    "make" : "Volkswagen",
+    "model": "jetta",
+    "url"  : "https://www.autobytel.com/volkswagen/jetta/2020/configurator/"
+  },
+  {
+    "make" : "Volkswagen",
+    "model": "jetta-gli",
+    "url"  : "https://www.autobytel.com/volkswagen/jetta-gli/2020/configurator/"
+  },
+  {
+    "make" : "Volkswagen",
+    "model": "passat",
+    "url"  : "https://www.autobytel.com/volkswagen/passat/2020/configurator/"
+  },
+  {
+    "make" : "Volkswagen",
+    "model": "tiguan",
+    "url"  : "https://www.autobytel.com/volkswagen/tiguan/2020/configurator/"
+  },
+  {
+    "make" : "Volvo",
+    "model": "s60",
+    "url"  : "https://www.autobytel.com/volvo/s60/2020/configurator/"
+  },
+  {
+    "make" : "Volvo",
+    "model": "s60-hybrid",
+    "url"  : "https://www.autobytel.com/volvo/s60-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Volvo",
+    "model": "s90",
+    "url"  : "https://www.autobytel.com/volvo/s90/2020/configurator/"
+  },
+  {
+    "make" : "Volvo",
+    "model": "s90-hybrid",
+    "url"  : "https://www.autobytel.com/volvo/s90-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Volvo",
+    "model": "v60",
+    "url"  : "https://www.autobytel.com/volvo/v60/2020/configurator/"
+  },
+  {
+    "make" : "Volvo",
+    "model": "v60-cross-country",
+    "url"  : "https://www.autobytel.com/volvo/v60-cross-country/2020/configurator/"
+  },
+  {
+    "make" : "Volvo",
+    "model": "v60-hybrid",
+    "url"  : "https://www.autobytel.com/volvo/v60-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Volvo",
+    "model": "v90",
+    "url"  : "https://www.autobytel.com/volvo/v90/2020/configurator/"
+  },
+  {
+    "make" : "Volvo",
+    "model": "v90-cross-country",
+    "url"  : "https://www.autobytel.com/volvo/v90-cross-country/2020/configurator/"
+  },
+  {
+    "make" : "Volvo",
+    "model": "xc40",
+    "url"  : "https://www.autobytel.com/volvo/xc40/2020/configurator/"
+  },
+  {
+    "make" : "Volvo",
+    "model": "xc60",
+    "url"  : "https://www.autobytel.com/volvo/xc60/2020/configurator/"
+  },
+  {
+    "make" : "Volvo",
+    "model": "xc60-hybrid",
+    "url"  : "https://www.autobytel.com/volvo/xc60-hybrid/2020/configurator/"
+  },
+  {
+    "make" : "Volvo",
+    "model": "xc90",
+    "url"  : "https://www.autobytel.com/volvo/xc90/2020/configurator/"
+  },
+  {
+    "make" : "Volvo",
+    "model": "xc90-hybrid",
+    "url"  : "https://www.autobytel.com/volvo/xc90-hybrid/2020/configurator/"
+  }
+]
